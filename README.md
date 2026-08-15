@@ -35,7 +35,7 @@ Or inside [Claude Code](https://claude.com/claude-code), use the plugin marketpl
 /plugin install awesome-web-security
 ```
 
-For [Codex](https://github.com/openai/codex) ⭐ 105,896 | 🐛 12,553 | 🌐 Rust | 📅 2026-08-14, swap `-a claude-code` → `-a codex`.
+For [Codex](https://github.com/openai/codex) ⭐ 106,029 | 🐛 12,654 | 🌐 Rust | 📅 2026-08-15, swap `-a claude-code` → `-a codex`.
 
 Then ask any web-security question and the skill activates on topics like XSS, SQLi, SSRF, JWT, OAuth, recon, WAF evasion, deserialization, SAML, CTF write-ups, and more. See [`skills/awesome-web-security/SKILL.md`](skills/awesome-web-security/SKILL.md) for the full trigger list.
 
@@ -145,7 +145,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 * [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
 * [Hacker101](https://www.hacker101.com/) - Written by [hackerone](http://web.archive.org/web/20200630164946/https://www.hackerone.com/start-hacking).
 * [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) - Written by [Mark Robinson](https://www.sneakymonkey.net/).
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 * [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
 * [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](http://web.archive.org/web/20230519134723/https://bitvijays.github.io/aboutme.html).
 * [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) - Written by [Netsparker](https://www.netsparker.com/).
@@ -168,9 +168,9 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### XSS - Cross-Site Scripting
 
-* [PayloadsAllTheThings - XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-* [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) ⭐ 5,135 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-30 - Written by [@s0md3v](https://github.com/s0md3v).
-* [H5SC](https://github.com/cure53/H5SC) ⭐ 2,944 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-23 - Written by [@cure53](https://github.com/cure53).
+* [PayloadsAllTheThings - XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) ⭐ 5,136 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-30 - Written by [@s0md3v](https://github.com/s0md3v).
+* [H5SC](https://github.com/cure53/H5SC) ⭐ 2,945 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-23 - Written by [@cure53](https://github.com/cure53).
 * [XSS.png](https://github.com/LucaBongiorni/XSS.png) ⭐ 55 | 🐛 0 | 📅 2016-01-16 - Written by @jackmasa.
 * [C.XSS Guide](https://excess-xss.com/) - Written by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 * [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) - Written by [Google](https://www.google.com/).
@@ -192,13 +192,13 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 * [CSV Injection -> Meterpreter on Pornhub](https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf) - Written by [Andy](https://blog.zsec.uk/).
 * [The Absurdly Underestimated Dangers of CSV Injection](https://georgemauer.net/2017/10/07/csv-injection.html) - Written by [George Mauer](https://georgemauer.net/).
-* [PayloadsAllTheThings - CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="sql-injection"></a>
 
 ### SQL Injection
 
-* [PayloadsAllTheThings - SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - Written by [@netsparker](https://twitter.com/netsparker).
 * [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) - Written by [@LightOS](https://twitter.com/LightOS).
 * [SQL Injection Wiki](https://sqlwiki.netspi.com/) - Written by [NETSPI](https://www.netspi.com/).
@@ -208,8 +208,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Command Injection
 
-* [PayloadsAllTheThings - Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-* [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) ⭐ 23,676 | 🐛 660 | 🌐 Ruby | 📅 2026-08-14 - Written by [@drigg3r](https://github.com/drigg3r).
+* [PayloadsAllTheThings - Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) ⭐ 23,677 | 🐛 661 | 🌐 Ruby | 📅 2026-08-15 - Written by [@drigg3r](https://github.com/drigg3r).
 * [payloadbox/command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
 <a name="orm-injection"></a>
@@ -232,7 +232,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### XXE - XML eXternal Entity
 
-* [PayloadsAllTheThings - XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by various contributors.
+* [PayloadsAllTheThings - XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by various contributors.
 * [XXE](https://phonexicum.github.io/infosec/xxe.html) - Written by [@phonexicum](https://twitter.com/phonexicum).
 * [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe) - Written by [portswigger](https://portswigger.net/).
 * [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf) - Written by [Timothy D. Morgan](https://twitter.com/ecbftw) and Omar Al Ibrahim.
@@ -243,7 +243,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### CSRF - Cross-Site Request Forgery
 
 * [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) - Written by [@jrozner](https://medium.com/@jrozner).
-* [PayloadsAllTheThings - CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="clickjacking"></a>
 
@@ -257,14 +257,14 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### SSRF - Server-Side Request Forgery
 
 * [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) - Written by [Wallarm](https://wallarm.com/).
-* [PayloadsAllTheThings - Server-Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - Server-Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="web-cache-poisoning"></a>
 
 ### Web Cache Poisoning
 
 * [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning) - Written by [@albinowax](https://twitter.com/albinowax).
-* [PayloadsAllTheThings - Web Cache Deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - Web Cache Deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="relative-path-overwrite"></a>
 
@@ -277,7 +277,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Open Redirect
 
-* [PayloadsAllTheThings - Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 * [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) - Written by [s0cket7](https://s0cket7.com/).
 * [payloadbox/open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
@@ -288,14 +288,14 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 * [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/) - Written by [epi](https://epi052.gitlab.io/notes-to-self/).
 * [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/) - Written by [epi](https://epi052.gitlab.io/notes-to-self/).
 * [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/) - Written by [epi](https://epi052.gitlab.io/notes-to-self/).
-* [PayloadsAllTheThings - SAML Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - SAML Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="upload"></a>
 
 ### Upload
 
 * [File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf) - Written by [Haboob Team](https://www.exploit-db.com/author/?a=9381).
-* [PayloadsAllTheThings - Upload Insecure Files](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) ⭐ 80,038 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+* [PayloadsAllTheThings - Upload Insecure Files](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) ⭐ 80,058 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="rails"></a>
 
@@ -405,7 +405,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 * [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) - Written by [@pwntester](https://twitter.com/pwntester).
 * [How to exploit the DotNetNuke Cookie Deserialization](https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/) - Written by [CRISTIAN CORNEA](https://pentest-tools.com/blog/author/pentest-cristian/).
 * [HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html) - Written by [@synacktiv](https://twitter.com/synacktiv).
-* [Altus iX Developer XAML Deserialization RCE](https://0day-rubbish.com/blog/altus-ix-developer-xaml-rce) - Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by [0day Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-08-13.
+* [Altus iX Developer XAML Deserialization RCE](https://0day-rubbish.com/blog/altus-ix-developer-xaml-rce) - Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by [0day Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish) ⭐ 102 | 🐛 0 | 🌐 Python | 📅 2026-08-15.
 
 <a name="oauth"></a>
 
@@ -667,7 +667,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Auditing
 
-* [prowler](https://github.com/Alfresco/prowler) ⭐ 14,582 | 🐛 269 | 🌐 Python | 📅 2026-08-14 - Tool for AWS security assessment, auditing and hardening by [@Alfresco](https://github.com/Alfresco).
+* [prowler](https://github.com/Alfresco/prowler) ⭐ 14,587 | 🐛 271 | 🌐 Python | 📅 2026-08-14 - Tool for AWS security assessment, auditing and hardening by [@Alfresco](https://github.com/Alfresco).
 * [A2SV](https://github.com/hahwul/a2sv) ⚠️ Archived - Auto Scanning to SSL Vulnerability by [@hahwul](https://github.com/hahwul).
 * [slurp](https://github.com/hehnope/slurp) ⭐ 3 | 🐛 1 | 📅 2022-07-30 - Evaluate the security of S3 buckets by [@hehnope](https://github.com/hehnope).
 
@@ -675,7 +675,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Command Injection
 
-* [commix](https://github.com/commixproject/commix) ⭐ 5,815 | 🐛 8 | 🌐 Python | 📅 2026-08-14 - Automated All-in-One OS command injection and exploitation tool by [@commixproject](https://github.com/commixproject).
+* [commix](https://github.com/commixproject/commix) ⭐ 5,816 | 🐛 6 | 🌐 Python | 📅 2026-08-15 - Automated All-in-One OS command injection and exploitation tool by [@commixproject](https://github.com/commixproject).
 
 <a name="tools-reconnaissance"></a>
 
@@ -685,10 +685,10 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 #### OSINT - Open-Source Intelligence
 
-* [Photon](https://github.com/s0md3v/Photon) ⭐ 13,110 | 🐛 58 | 🌐 Python | 📅 2026-08-07 - Incredibly fast crawler designed for OSINT by [@s0md3v](https://github.com/s0md3v).
+* [Photon](https://github.com/s0md3v/Photon) ⭐ 13,112 | 🐛 59 | 🌐 Python | 📅 2026-08-07 - Incredibly fast crawler designed for OSINT by [@s0md3v](https://github.com/s0md3v).
 * [gitrob](https://github.com/michenriksen/Gitrob) ⚠️ Archived - Reconnaissance tool for GitHub organizations by [@michenriksen](https://github.com/michenriksen).
 * [Social Mapper](https://github.com/SpiderLabs/social_mapper) ⭐ 4,072 | 🐛 48 | 🌐 Python | 📅 2022-02-25 - Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by [@SpiderLabs](https://github.com/SpiderLabs).
-* [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 3,989 | 🐛 14 | 🌐 Python | 📅 2026-04-21 - High performance offensive security tool for reconnaissance and vulnerability scanning by [@evyatarmeged](https://github.com/evyatarmeged).
+* [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 3,990 | 🐛 14 | 🌐 Python | 📅 2026-04-21 - High performance offensive security tool for reconnaissance and vulnerability scanning by [@evyatarmeged](https://github.com/evyatarmeged).
 * [FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,613 | 🐛 26 | 🌐 C# | 📅 2022-12-08 - FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans by [ElevenPaths](https://www.elevenpaths.com/index.html).
 * [xray](https://github.com/evilsocket/xray) ⚠️ Archived - XRay is a tool for recon, mapping and OSINT gathering from public networks by [@evilsocket](https://github.com/evilsocket).
 * [GSIL](https://github.com/FeeiCN/GSIL) ⚠️ Archived - Github Sensitive Information Leakage（Github敏感信息泄露）by [@FeeiCN](https://github.com/FeeiCN).
@@ -713,7 +713,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 #### Sub Domain Enumeration
 
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,020 | 🐛 253 | 🌐 Python | 📅 2024-08-02 - Sublist3r is a multi-threaded sub-domain enumeration tool for penetration testers by [@aboul3la](https://github.com/aboul3la).
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,022 | 🐛 253 | 🌐 Python | 📅 2024-08-02 - Sublist3r is a multi-threaded sub-domain enumeration tool for penetration testers by [@aboul3la](https://github.com/aboul3la).
 * [AQUATONE](https://github.com/michenriksen/aquatone) ⚠️ Archived - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
 * [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) ⭐ 3,621 | 🐛 16 | 🌐 Python | 📅 2022-09-15 - A simple and fast sub domain brute tool for pentesters by [@lijiejie](https://github.com/lijiejie).
 * [domain\_analyzer](https://github.com/eldraco/domain_analyzer) ⭐ 1,863 | 🐛 10 | 🌐 Python | 📅 2022-12-29 - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco).
@@ -734,7 +734,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### Fuzzing
 
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 8,974 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-* [wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,552 | 🐛 115 | 🌐 Python | 📅 2026-01-21 - Web application bruteforcer by [@xmendez](https://github.com/xmendez).
+* [wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,553 | 🐛 116 | 🌐 Python | 📅 2026-01-21 - Web application bruteforcer by [@xmendez](https://github.com/xmendez).
 * [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) ⭐ 3,318 | 🐛 8 | 📅 2026-07-28 - Potentially dangerous files by [@Bo0oM](https://github.com/Bo0oM).
 * [dirhunt](https://github.com/Nekmo/dirhunt) ⭐ 2,008 | 🐛 15 | 🌐 Python | 📅 2023-10-29 - Web crawler optimized for searching and analyzing the directory structure of a site by [@nekmo](https://github.com/Nekmo).
 * [domato](https://github.com/google/domato) ⭐ 1,785 | 🐛 3 | 🌐 Python | 📅 2024-11-26 - DOM fuzzer by [@google](https://github.com/google).
@@ -747,10 +747,10 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Scanning
 
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,503 | 🐛 102 | 🌐 Go | 📅 2026-08-13 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
-* [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,732 | 🐛 1 | 🌐 Ruby | 📅 2026-07-23 - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
-* [Vigolium](https://github.com/vigolium/vigolium) ⭐ 983 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision, maintained by [@j3ssie](https://github.com/j3ssie).
-* [JoomlaScan](https://github.com/drego85/JoomlaScan) ⭐ 261 | 🐛 5 | 🌐 Python | 📅 2023-08-01 - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,515 | 🐛 102 | 🌐 Go | 📅 2026-08-15 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
+* [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,731 | 🐛 0 | 🌐 Ruby | 📅 2026-07-23 - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
+* [Vigolium](https://github.com/vigolium/vigolium) ⭐ 986 | 🐛 4 | 🌐 Go | 📅 2026-08-13 - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision, maintained by [@j3ssie](https://github.com/j3ssie).
+* [JoomlaScan](https://github.com/drego85/JoomlaScan) ⭐ 262 | 🐛 5 | 🌐 Python | 📅 2023-08-01 - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
 * [ZeroTrust](https://github.com/sattyamjjain/zerotrust) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-29 - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 * [Trust Scan](https://github.com/undeadlist/trust-scan) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-25 - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 * [WAScan](https://github.com/m4ll0k/WAScan) - Is an open source web application security scanner that uses "black-box" method, created by [@m4ll0k](https://github.com/m4ll0k).
@@ -765,7 +765,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 * [Astra](https://github.com/flipkart-incubator/astra) ⭐ 2,657 | 🐛 65 | 🌐 Python | 📅 2024-06-05 - Automated Security Testing For REST API's by [@flipkart-incubator](https://github.com/flipkart-incubator).
 * [TIDoS-Framework](https://github.com/theInfectedDrake/TIDoS-Framework) ⭐ 1,870 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - A comprehensive web application audit framework to cover up everything from Reconnaissance and OSINT to Vulnerability Analysis by [@\_tID](https://github.com/theInfectedDrake).
 * [aws\_pwn](https://github.com/dagrz/aws_pwn) ⭐ 1,221 | 🐛 3 | 🌐 Python | 📅 2023-08-30 - A collection of AWS penetration testing junk by [@dagrz](https://github.com/dagrz).
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 835 | 🐛 1 | 🌐 Python | 📅 2026-08-06 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 840 | 🐛 1 | 🌐 Python | 📅 2026-08-06 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP across web, cloud, Active Directory and Kubernetes, with an evidence trail per finding by [@ASCIT31](https://github.com/ASCIT31).
 * [numasec](https://github.com/FrancescoStabile/numasec) ⭐ 470 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-08 - AI-driven penetration-testing platform that coordinates 10 agents and 38 vulnerability scanners covering OWASP Top 10, by [@FrancescoStabile](https://github.com/FrancescoStabile).
 * [ARS3NAL](https://github.com/inflictx/Arsenal) ⭐ 168 | 🐛 4 | 🌐 CSS | 📅 2026-07-09 - Offline-first, self-hosted pentest & bug-bounty arsenal - searchable payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vulnerability checklists, with a live static demo - by [@inflictx](https://github.com/inflictx).
 * [Burp Suite](https://portswigger.net/burp/) - Burp Suite is an integrated platform for performing security testing of web applications by [portswigger](https://portswigger.net/).
@@ -779,8 +779,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 #### XSS - Cross-Site Scripting
 
-* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,136 | 🐛 95 | 🌐 Python | 📅 2025-04-26 - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@s0md3v](https://github.com/s0md3v).
-* [beef](https://github.com/beefproject/beef) ⭐ 10,978 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-11 - The Browser Exploitation Framework Project by [beefproject](https://beefproject.com).
+* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,137 | 🐛 95 | 🌐 Python | 📅 2025-04-26 - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@s0md3v](https://github.com/s0md3v).
+* [beef](https://github.com/beefproject/beef) ⭐ 10,978 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-14 - The Browser Exploitation Framework Project by [beefproject](https://beefproject.com).
 * [xssor2](https://github.com/evilcos/xssor2) ⭐ 2,223 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-12 - XSS'OR - Hack with JavaScript by [@evilcos](https://github.com/evilcos).
 * [JShell](https://github.com/s0md3v/JShell) ⭐ 530 | 🐛 1 | 🌐 Python | 📅 2019-05-05 - Get a JavaScript shell with XSS by [@s0md3v](https://github.com/s0md3v).
 * [csp evaluator](https://csper.io/evaluator) - A tool for evaluating content-security-policies by [Csper](https://csper.io).
@@ -789,13 +789,13 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 #### SQL Injection
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,183 | 🐛 32 | 🌐 Python | 📅 2026-08-13 - Automatic SQL injection and database takeover tool.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,194 | 🐛 32 | 🌐 Python | 📅 2026-08-15 - Automatic SQL injection and database takeover tool.
 
 <a name="tools-template-injection"></a>
 
 #### Template Injection
 
-* [tplmap](https://github.com/epinna/tplmap) ⭐ 4,193 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Code and Server-Side Template Injection Detection and Exploitation Tool by [@epinna](https://github.com/epinna).
+* [tplmap](https://github.com/epinna/tplmap) ⭐ 4,192 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Code and Server-Side Template Injection Detection and Exploitation Tool by [@epinna](https://github.com/epinna).
 
 <a name="tools-xxe"></a>
 
@@ -807,7 +807,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 #### Cross Site Request Forgery
 
-* [XSRFProbe](https://github.com/0xInfection/XSRFProbe) ⭐ 1,302 | 🐛 0 | 🌐 Python | 📅 2026-07-12 - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
+* [XSRFProbe](https://github.com/0xInfection/XSRFProbe) ⭐ 1,303 | 🐛 0 | 🌐 Python | 📅 2026-07-12 - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
 
 <a name="tools-ssrf"></a>
 
@@ -819,8 +819,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Leaking
 
-* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,705 | 🐛 462 | 🌐 Go | 📅 2026-07-29 - Searches full repo history for secrets and keys by [@zricethezav](https://github.com/zricethezav).
-* [LinkFinder](https://github.com/GerbenJavado/LinkFinder) ⭐ 4,436 | 🐛 53 | 🌐 Python | 📅 2024-04-13 - Python script that finds endpoints in JavaScript files by [@GerbenJavado](https://github.com/GerbenJavado).
+* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,727 | 🐛 462 | 🌐 Go | 📅 2026-07-29 - Searches full repo history for secrets and keys by [@zricethezav](https://github.com/zricethezav).
+* [LinkFinder](https://github.com/GerbenJavado/LinkFinder) ⭐ 4,437 | 🐛 53 | 🌐 Python | 📅 2024-04-13 - Python script that finds endpoints in JavaScript files by [@GerbenJavado](https://github.com/GerbenJavado).
 * [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) ⭐ 3,243 | 🐛 0 | 🌐 CSS | 📅 2018-02-20 - Chrome extension and Express server that exploits keylogging abilities of CSS by [@maxchehab](https://github.com/maxchehab).
 * [GitMiner](https://github.com/UnkL4b/GitMiner) ⭐ 2,152 | 🐛 13 | 🌐 Python | 📅 2025-11-05 - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) ⭐ 2,118 | 🐛 0 | 🌐 HTML | 📅 2026-01-03 - All possible ways, a website can leak HTTP requests by [@cure53](https://github.com/cure53).
@@ -847,11 +847,11 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Preventing
 
-* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,302 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-14 - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
+* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,303 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 * [js-xss](https://github.com/leizongmin/js-xss) ⭐ 5,315 | 🐛 69 | 🌐 HTML | 📅 2026-05-06 - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
 * [UUSEC WAF](https://github.com/Safe3/uusec-waf/) ⭐ 1,701 | 🐛 83 | 🌐 Shell | 📅 2026-08-05 - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
 * [Acra](https://github.com/cossacklabs/acra) ⭐ 1,491 | 🐛 21 | 🌐 Go | 📅 2026-04-23 - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
-* [Pompelmi](https://github.com/pompelmi/pompelmi) ⭐ 670 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-23 - In-process file-upload security middleware for Node.js that scans untrusted uploads before storage to detect malware, MIME spoofing, and risky archives, maintained by [pompelmi](https://github.com/pompelmi).
+* [Pompelmi](https://github.com/pompelmi/pompelmi) ⭐ 671 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-23 - In-process file-upload security middleware for Node.js that scans untrusted uploads before storage to detect malware, MIME spoofing, and risky archives, maintained by [pompelmi](https://github.com/pompelmi).
 * [FCaptcha](https://github.com/WebDecoy/FCaptcha) ⭐ 185 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-28 - Self-hosted CAPTCHA with behavioral analysis, vision-AI agent detection, headless-browser fingerprinting, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
 * [verifyfetch](https://github.com/hamzaydia/verifyfetch) ⭐ 156 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07 - Browser-side integrity verification and resumable downloads for large files using SRI hashes, defending against CDN compromise and supply-chain attacks, by [@hamzaydia](https://github.com/hamzaydia).
 * [WebDecoy](https://github.com/WebDecoy/wordpress-plugin) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-07-30 - Zero-configuration WordPress bot-detection plugin combining WebDriver detection, headless-browser fingerprinting, behavioral analysis, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
@@ -865,16 +865,16 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### Proxy
 
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,692 | 🐛 466 | 🌐 Python | 📅 2026-08-13 - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,701 | 🐛 468 | 🌐 Python | 📅 2026-08-13 - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
 
 <a name="tools-webshell"></a>
 
 ### Webshell
 
 * [webshell](https://github.com/tennc/webshell) ⭐ 10,768 | 🐛 0 | 🌐 PHP | 📅 2024-12-24 - This is a webshell open source project by [@tennc](https://github.com/tennc).
-* [Weevely](https://github.com/epinna/weevely3) ⭐ 3,534 | 🐛 17 | 🌐 Python | 📅 2025-10-01 - Weaponized web shell by [@epinna](https://github.com/epinna).
+* [Weevely](https://github.com/epinna/weevely3) ⭐ 3,531 | 🐛 17 | 🌐 Python | 📅 2025-10-01 - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [PhpSploit](https://github.com/nil0x42/phpsploit) ⭐ 2,489 | 🐛 27 | 🌐 Python | 📅 2024-05-06 - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by [@nil0x42](https://github.com/nil0x42).
-* [reverse-shell](https://github.com/lukechilds/reverse-shell) ⭐ 2,050 | 🐛 2 | 🌐 Go | 📅 2026-02-18 - Reverse Shell as a Service by [@lukechilds](https://github.com/lukechilds).
+* [reverse-shell](https://github.com/lukechilds/reverse-shell) ⭐ 2,051 | 🐛 2 | 🌐 Go | 📅 2026-02-18 - Reverse Shell as a Service by [@lukechilds](https://github.com/lukechilds).
 * [nano](https://github.com/s0md3v/nano) ⭐ 449 | 🐛 2 | 🌐 PHP | 📅 2020-02-18 - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 * [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) ⭐ 422 | 🐛 0 | 🌐 Python | 📅 2026-06-27 - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 * [Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2023-07-05 - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
@@ -883,7 +883,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ### Disassembler
 
-* [radare2](https://github.com/radare/radare2) ⭐ 24,568 | 🐛 824 | 🌐 C | 📅 2026-08-14 - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare).
+* [radare2](https://github.com/radare/radare2) ⭐ 24,571 | 🐛 823 | 🌐 C | 📅 2026-08-15 - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare).
 * [plasma](https://github.com/plasma-disassembler/plasma) ⭐ 3,072 | 🐛 15 | 🌐 Python | 📅 2021-08-31 - Plasma is an interactive disassembler for x86/ARM/MIPS by [@plasma-disassembler](https://github.com/plasma-disassembler).
 * [Iaitō](https://github.com/hteso/iaito) ⭐ 1,457 | 🐛 38 | 🌐 C++ | 📅 2021-04-07 - Qt and C++ GUI for radare2 reverse engineering framework by [@hteso](https://github.com/hteso).
 
@@ -951,7 +951,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 * [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,669 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-10 - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) and the [@owasp\_juiceshop](https://twitter.com/owasp_juiceshop) team.
 * [BadLibrary](https://github.com/SecureSkyTechnology/BadLibrary) ⚠️ Archived - Vulnerable web application for training - Written by [@SecureSkyTechnology](https://github.com/SecureSkyTechnology).
-* [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 34 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-13 - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
+* [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 34 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-14 - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
 * [SELinux Game](https://selinuxgame.org/) - Learn SELinux by doing. Solve Puzzles, show skillz - Written by [@selinuxgame](https://twitter.com/selinuxgame).
 * [Hackxor](https://hackxor.net/) - Realistic web application hacking game - Written by [@albinowax](https://twitter.com/albinowax).
 * [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
@@ -962,7 +962,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### AWS
 
 * [FLAWS](http://flaws.cloud/) - Amazon AWS CTF challenge - Written by [@0xdabbad00](https://twitter.com/0xdabbad00).
-* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,693 | 🐛 23 | 🌐 Python | 📅 2026-04-28 - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool  - Written by [@RhinoSecurityLabs](https://github.com/RhinoSecurityLabs).
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,694 | 🐛 23 | 🌐 Python | 📅 2026-04-28 - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool  - Written by [@RhinoSecurityLabs](https://github.com/RhinoSecurityLabs).
 
 <a name="practices-xss"></a>
 
@@ -986,12 +986,12 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ## Miscellaneous
 
-* [Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) ⭐ 5,984 | 🐛 2 | 🌐 CSS | 📅 2025-10-20 - Information Security Reference That Doesn't Suck by [@rmusser01](https://github.com/rmusser01).
-* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) ⭐ 5,844 | 🐛 30 | 📅 2026-03-07 - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
+* [Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) ⭐ 5,984 | 🐛 3 | 🌐 CSS | 📅 2025-10-20 - Information Security Reference That Doesn't Suck by [@rmusser01](https://github.com/rmusser01).
+* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) ⭐ 5,846 | 🐛 30 | 📅 2026-03-07 - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) ⭐ 4,242 | 🐛 3 | 📅 2024-07-31 - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
 * [EQGRP](https://github.com/x0rz/EQGRP) ⭐ 4,203 | 🐛 17 | 🌐 Perl | 📅 2017-05-24 - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
 * [notes](https://github.com/ChALkeR/notes) ⭐ 1,275 | 🐛 1 | 📅 2019-07-13 - Some public notes by [@ChALkeR](https://github.com/ChALkeR).
-* [htb-writeups](https://github.com/momenbasel/htb-writeups) ⭐ 204 | 🐛 0 | 🌐 HTML | 📅 2026-07-18 - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
+* [htb-writeups](https://github.com/momenbasel/htb-writeups) ⭐ 206 | 🐛 0 | 🌐 HTML | 📅 2026-07-18 - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
 * [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
 * [Brute Forcing Your Facebook Email and Phone Number](https://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](https://pwndizzle.blogspot.jp/).
 * [Cybersecurity Campaign Playbook](https://www.belfercenter.org/publication/cybersecurity-campaign-playbook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
@@ -1036,4 +1036,4 @@ To the extent possible under law, [Boik Su](https://x.com/boik_su) has waived al
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
