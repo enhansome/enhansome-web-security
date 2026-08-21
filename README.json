@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80192
+                "stars": 80227
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-10-30T19:01:10Z",
                 "owner": "s0md3v",
                 "repo": "AwesomeXSS",
-                "stars": 5136
+                "stars": 5137
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80192
+                "stars": 80227
               }
             }
           ],
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80192
+                "stars": 80227
               }
             },
             {
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 538746,
                 "language": "Ruby",
-                "last_commit": "2026-08-20T08:39:35Z",
+                "last_commit": "2026-08-21T08:46:55Z",
                 "owner": "ruby",
                 "repo": "ruby",
                 "stars": 23685
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80192
+                "stars": 80227
               }
             }
           ],
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80192
+                "stars": 80227
               }
             }
           ],
@@ -193,7 +193,7 @@
                 "last_commit": "2022-01-04T19:07:43Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-cve-poc",
-                "stars": 3524
+                "stars": 3525
               }
             },
             {
@@ -263,10 +263,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:48:19Z",
+                "last_commit": "2026-08-21T08:49:53Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14626
+                "stars": 14635
               }
             },
             {
@@ -320,7 +320,7 @@
                     "last_commit": "2026-08-07T12:50:36Z",
                     "owner": "s0md3v",
                     "repo": "Photon",
-                    "stars": 13123
+                    "stars": 13124
                   }
                 },
                 {
@@ -335,13 +335,13 @@
                     "last_commit": "2022-09-20T18:09:09Z",
                     "owner": "michenriksen",
                     "repo": "gitrob",
-                    "stars": 6196
+                    "stars": 6197
                   }
                 },
                 {
                   "node_type": "item",
                   "title": "Social Mapper",
-                  "description": "Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by @SpiderLabs.",
+                  "description": "Social Media Enumeration & Correlation Tool by Jacob Wilkin (Greenwolf).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -350,7 +350,7 @@
                     "last_commit": "2022-02-25T18:08:41Z",
                     "owner": "Greenwolf",
                     "repo": "social_mapper",
-                    "stars": 4076
+                    "stars": 4072
                   }
                 },
                 {
@@ -425,7 +425,7 @@
                     "last_commit": "2021-01-26T05:17:13Z",
                     "owner": "s0md3v",
                     "repo": "ReconDog",
-                    "stars": 2096
+                    "stars": 2095
                   }
                 },
                 {
@@ -440,7 +440,7 @@
                     "last_commit": "2019-02-06T22:22:17Z",
                     "owner": "vaguileradiaz",
                     "repo": "tinfoleak",
-                    "stars": 1983
+                    "stars": 1982
                   }
                 },
                 {
@@ -689,6 +689,21 @@
             },
             {
               "node_type": "item",
+              "title": "SpiderSuite",
+              "description": "Cross-platform web security crawler supporting standard, headless, interactive, brute-force, and archive crawling modes, for attack-surface mapping and endpoint discovery, by @3nock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623960651,
+                "language": null,
+                "last_commit": "2026-08-13T19:19:50Z",
+                "owner": "spidersuite",
+                "repo": "SpiderSuite",
+                "stars": 973
+              }
+            },
+            {
+              "node_type": "item",
               "title": "IPObfuscator",
               "description": "Simple tool to convert the IP to a DWORD IP by @OsandaMalith.",
               "children": [],
@@ -751,7 +766,7 @@
                 "last_commit": "2026-08-20T08:52:24Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30613
+                "stars": 30633
               }
             },
             {
@@ -763,10 +778,10 @@
                 "archived": false,
                 "id": 4994614,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T10:52:19Z",
+                "last_commit": "2026-08-20T09:03:17Z",
                 "owner": "wpscanteam",
                 "repo": "wpscan",
-                "stars": 9738
+                "stars": 9735
               }
             },
             {
@@ -781,7 +796,7 @@
                 "last_commit": "2026-08-19T16:03:12Z",
                 "owner": "vigolium",
                 "repo": "vigolium",
-                "stars": 1032
+                "stars": 1038
               }
             },
             {
@@ -893,7 +908,7 @@
                 "last_commit": "2026-08-20T08:53:07Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 851
+                "stars": 852
               }
             },
             {
@@ -947,7 +962,7 @@
                     "last_commit": "2025-04-26T08:47:06Z",
                     "owner": "s0md3v",
                     "repo": "XSStrike",
-                    "stars": 15146
+                    "stars": 15145
                   }
                 },
                 {
@@ -962,7 +977,7 @@
                     "last_commit": "2026-08-17T13:05:04Z",
                     "owner": "beefproject",
                     "repo": "beef",
-                    "stars": 10976
+                    "stars": 10979
                   }
                 },
                 {
@@ -1019,7 +1034,7 @@
                 "last_commit": "2026-08-19T04:15:06Z",
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 28851
+                "stars": 28875
               }
             },
             {
@@ -1109,7 +1124,7 @@
                 "last_commit": "2024-07-19T12:49:07Z",
                 "owner": "kost",
                 "repo": "dvcs-ripper",
-                "stars": 1781
+                "stars": 1782
               }
             },
             {
@@ -1124,7 +1139,7 @@
                 "last_commit": "2026-07-19T03:09:26Z",
                 "owner": "momenbasel",
                 "repo": "keyFinder",
-                "stars": 697
+                "stars": 698
               }
             },
             {
@@ -1258,7 +1273,7 @@
                 "last_commit": "2026-08-19T11:57:28Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17318
+                "stars": 17322
               }
             },
             {
@@ -1330,7 +1345,7 @@
                 "archived": false,
                 "id": 1124476057,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T03:17:43Z",
+                "last_commit": "2026-08-20T23:47:49Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
                 "stars": 190
@@ -1370,6 +1385,43 @@
           "description": null,
           "node_type": "group",
           "title": "Preventing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mitmproxy",
+              "description": "Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by @mitmproxy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519832,
+                "language": "Python",
+                "last_commit": "2026-08-20T23:12:02Z",
+                "owner": "mitmproxy",
+                "repo": "mitmproxy",
+                "stars": 44762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proxelar",
+              "description": "Single-binary intercepting proxy for HTTP, HTTPS, and WebSocket traffic that pauses and edits requests in flight, replays them, rewrites traffic with Lua hooks, and exports captures as HAR, curl, or raw HTTP, available as a terminal UI, web GUI, or headless REST API, by @emanuele-em.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591022890,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:06:38Z",
+                "owner": "emanuele-em",
+                "repo": "proxelar",
+                "stars": 1050
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Proxy"
         },
         {
           "children": [
@@ -1494,10 +1546,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-20T08:01:00Z",
+                "last_commit": "2026-08-21T08:53:47Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24606
+                "stars": 24611
               }
             },
             {
@@ -1549,7 +1601,7 @@
                 "last_commit": "2026-07-21T21:43:01Z",
                 "owner": "nccgroup",
                 "repo": "singularity",
-                "stars": 1315
+                "stars": 1314
               }
             },
             {
@@ -1613,10 +1665,10 @@
                 "archived": false,
                 "id": 74962515,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T18:46:40Z",
+                "last_commit": "2026-08-21T02:06:22Z",
                 "owner": "gchq",
                 "repo": "CyberChef",
-                "stars": 35617
+                "stars": 35628
               }
             },
             {
@@ -1689,7 +1741,7 @@
                 "last_commit": "2026-08-10T21:37:50Z",
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 13694
+                "stars": 13702
               }
             },
             {
@@ -1719,7 +1771,7 @@
                 "last_commit": "2026-08-18T16:35:53Z",
                 "owner": "kOaDT",
                 "repo": "oss-oopssec-store",
-                "stars": 38
+                "stars": 40
               }
             }
           ],
@@ -1745,7 +1797,7 @@
             "last_commit": "2025-10-20T02:12:59Z",
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5985
+            "stars": 5986
           }
         },
         {
@@ -1760,7 +1812,7 @@
             "last_commit": "2026-03-07T06:49:50Z",
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5863
+            "stars": 5864
           }
         },
         {
@@ -1775,7 +1827,7 @@
             "last_commit": "2024-07-31T22:02:17Z",
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4250
+            "stars": 4251
           }
         },
         {
@@ -1820,7 +1872,7 @@
             "last_commit": "2026-07-18T13:03:00Z",
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 219
+            "stars": 221
           }
         }
       ],
@@ -1828,10 +1880,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:43.569Z",
+    "last_updated": "2026-08-21T08:55:20.364Z",
     "original_repository": "qazbnm456/awesome-web-security",
     "original_repository_id": 80358070,
-    "original_repository_sha": "34d1ca64f4cb82d2f5cac28af27f0bf52b684e3c",
+    "original_repository_sha": "47a37fcf141ad80486308b7d2a1f64e657f92e87",
     "enhanced_repository": "enhansome/enhansome-web-security",
     "enhanced_repository_description": null,
     "title": "Awesome Web Security with stars"
