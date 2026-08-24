@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80316
+                "stars": 80322
               }
             },
             {
@@ -74,6 +74,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Prototype pollution attack in NodeJS application",
+              "description": "Written by @HoLyVieR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133569556,
+                "language": "JavaScript",
+                "last_commit": "2024-05-25T15:10:24Z",
+                "owner": "HoLyVieR",
+                "repo": "prototype-pollution-nsec18",
+                "stars": 540
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prototype Pollution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - CSV Injection",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSV Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PayloadsAllTheThings - SQL Injection",
               "description": "Written by @swisskyrepo.",
               "children": [],
@@ -84,7 +128,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80316
+                "stars": 80322
               }
             }
           ],
@@ -106,7 +150,7 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80316
+                "stars": 80322
               }
             },
             {
@@ -118,7 +162,7 @@
                 "archived": false,
                 "id": 538746,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T08:54:17Z",
+                "last_commit": "2026-08-24T13:34:41Z",
                 "owner": "ruby",
                 "repo": "ruby",
                 "stars": 23689
@@ -143,13 +187,101 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80316
+                "stars": 80322
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "XXE - XML eXternal Entity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - CSRF Injection",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSRF - Cross-Site Request Forgery"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "X-Frame-Options: All about Clickjacking?",
+              "description": "Written by Mario Heiderich.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18464284,
+                "language": null,
+                "last_commit": "2026-06-23T13:22:31Z",
+                "owner": "cure53",
+                "repo": "Publications",
+                "stars": 89
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clickjacking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - Server-Side Request Forgery",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SSRF - Server-Side Request Forgery"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - Web Cache Deception",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Cache Poisoning"
         },
         {
           "children": [
@@ -165,16 +297,176 @@
                 "last_commit": "2026-08-09T13:38:47Z",
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80316
+                "stars": 80322
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Open Redirect"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - SAML Injection",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security Assertion Markup Language (SAML)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings - Upload Insecure Files",
+              "description": "Written by @swisskyrepo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Upload"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zen Rails Security Checklist",
+              "description": "Written by @brunofacca.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87855245,
+                "language": "Ruby",
+                "last_commit": "2020-03-09T11:42:57Z",
+                "owner": "brunofacca",
+                "repo": "zen-rails-security-checklist",
+                "stars": 1811
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rails"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Practical introduction to SSL/TLS",
+              "description": "Written by @Hakky54.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157111668,
+                "language": "Java",
+                "last_commit": "2026-08-15T15:08:21Z",
+                "owner": "Hakky54",
+                "repo": "mutual-tls-ssl",
+                "stars": 637
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SSL/TLS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Altus iX Developer XAML Deserialization RCE",
+              "description": "Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by 0day Rubbish.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285900799,
+                "language": "Python",
+                "last_commit": "2026-08-22T14:48:31Z",
+                "owner": "Exploit-Garbage",
+                "repo": "0day-Rubbish",
+                "stars": 184
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deserialization"
         }
       ],
       "title": "Introduction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stealing CSRF tokens with CSS injection (without iFrames)",
+              "description": "Written by @dxa4481.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120153657,
+                "language": "HTML",
+                "last_commit": "2018-02-07T20:50:12Z",
+                "owner": "dxa4481",
+                "repo": "cssInjection",
+                "stars": 321
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSRF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inducing DNS Leaks in Onion Web Services",
+              "description": "Written by @epidemics-scepticism.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94472211,
+                "language": null,
+                "last_commit": "2018-07-11T21:07:46Z",
+                "owner": "epidemics-scepticism",
+                "repo": "writing",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
+      "title": "Tricks"
     },
     {
       "description": null,
@@ -263,10 +555,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:35:54Z",
+                "last_commit": "2026-08-24T13:16:24Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14665
+                "stars": 14666
               }
             },
             {
@@ -307,6 +599,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "commix",
+              "description": "Automated All-in-One OS command injection and exploitation tool by @commixproject.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32572504,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:25:47Z",
+                "owner": "commixproject",
+                "repo": "commix",
+                "stars": 5821
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command Injection"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -320,7 +634,7 @@
                     "last_commit": "2026-08-07T12:50:36Z",
                     "owner": "s0md3v",
                     "repo": "Photon",
-                    "stars": 13136
+                    "stars": 13137
                   }
                 },
                 {
@@ -365,7 +679,7 @@
                     "last_commit": "2026-04-21T21:23:15Z",
                     "owner": "evyatarmeged",
                     "repo": "Raccoon",
-                    "stars": 4000
+                    "stars": 3998
                   }
                 },
                 {
@@ -440,7 +754,7 @@
                     "last_commit": "2019-02-06T22:22:17Z",
                     "owner": "vaguileradiaz",
                     "repo": "tinfoleak",
-                    "stars": 1981
+                    "stars": 1980
                   }
                 },
                 {
@@ -552,7 +866,7 @@
                     "last_commit": "2022-12-29T10:57:33Z",
                     "owner": "eldraco",
                     "repo": "domain_analyzer",
-                    "stars": 1862
+                    "stars": 1861
                   }
                 },
                 {
@@ -609,6 +923,28 @@
           "description": null,
           "node_type": "group",
           "title": "Reconnaissance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VWGen",
+              "description": "Vulnerable Web applications Generator by @qazbnm456.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56078217,
+                "language": "Python",
+                "last_commit": "2017-12-10T05:23:27Z",
+                "owner": "qazbnm456",
+                "repo": "VWGen",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Generating"
         },
         {
           "children": [
@@ -766,7 +1102,7 @@
                 "last_commit": "2026-08-24T08:59:31Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30752
+                "stars": 30758
               }
             },
             {
@@ -781,7 +1117,7 @@
                 "last_commit": "2026-08-20T09:03:17Z",
                 "owner": "wpscanteam",
                 "repo": "wpscan",
-                "stars": 9736
+                "stars": 9735
               }
             },
             {
@@ -796,7 +1132,7 @@
                 "last_commit": "2026-08-19T16:03:12Z",
                 "owner": "vigolium",
                 "repo": "vigolium",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -908,7 +1244,7 @@
                 "last_commit": "2026-08-23T15:48:25Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 866
+                "stars": 867
               }
             },
             {
@@ -977,7 +1313,7 @@
                     "last_commit": "2026-08-21T13:14:06Z",
                     "owner": "beefproject",
                     "repo": "beef",
-                    "stars": 10981
+                    "stars": 10982
                   }
                 },
                 {
@@ -1014,6 +1350,94 @@
               "description": null,
               "node_type": "group",
               "title": "XSS - Cross-Site Scripting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sqlmap",
+                  "description": "Automatic SQL injection and database takeover tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4793392,
+                    "language": "Python",
+                    "last_commit": "2026-08-23T15:35:59Z",
+                    "owner": "sqlmapproject",
+                    "repo": "sqlmap",
+                    "stars": 38255
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SQL Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tplmap",
+                  "description": "Code and Server-Side Template Injection Detection and Exploitation Tool by @epinna.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62751496,
+                    "language": "Python",
+                    "last_commit": "2024-04-21T14:47:13Z",
+                    "owner": "epinna",
+                    "repo": "tplmap",
+                    "stars": 4196
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Template Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dtd-finder",
+                  "description": "List DTDs and generate XXE payloads using those local DTDs by @GoSecure.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197065783,
+                    "language": "Kotlin",
+                    "last_commit": "2024-02-21T00:00:00Z",
+                    "owner": "GoSecure",
+                    "repo": "dtd-finder",
+                    "stars": 663
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "XXE"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "XSRFProbe",
+                  "description": "The Prime CSRF Audit & Exploitation Toolkit by @0xInfection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145513029,
+                    "language": "Python",
+                    "last_commit": "2026-07-12T07:07:02Z",
+                    "owner": "0xInfection",
+                    "repo": "XSRFProbe",
+                    "stars": 1302
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cross Site Request Forgery"
             }
           ],
           "description": null,
@@ -1034,7 +1458,7 @@
                 "last_commit": "2026-08-19T04:15:06Z",
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 28929
+                "stars": 28934
               }
             },
             {
@@ -1049,7 +1473,7 @@
                 "last_commit": "2024-04-13T09:53:27Z",
                 "owner": "GerbenJavado",
                 "repo": "LinkFinder",
-                "stars": 4437
+                "stars": 4438
               }
             },
             {
@@ -1064,7 +1488,7 @@
                 "last_commit": "2018-02-20T23:49:04Z",
                 "owner": "maxchehab",
                 "repo": "CSS-Keylogging",
-                "stars": 3241
+                "stars": 3240
               }
             },
             {
@@ -1273,7 +1697,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17324
+                "stars": 17326
               }
             },
             {
@@ -1348,7 +1772,7 @@
                 "last_commit": "2026-08-23T20:22:42Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -1400,7 +1824,7 @@
                 "last_commit": "2026-08-22T09:33:08Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44789
+                "stars": 44792
               }
             },
             {
@@ -1437,7 +1861,7 @@
                 "last_commit": "2024-12-24T15:37:05Z",
                 "owner": "tennc",
                 "repo": "webshell",
-                "stars": 10773
+                "stars": 10772
               }
             },
             {
@@ -1546,10 +1970,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-24T08:59:48Z",
+                "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24631
+                "stars": 24632
               }
             },
             {
@@ -1668,7 +2092,7 @@
                 "last_commit": "2026-08-21T02:06:22Z",
                 "owner": "gchq",
                 "repo": "CyberChef",
-                "stars": 35652
+                "stars": 35655
               }
             },
             {
@@ -1741,7 +2165,7 @@
                 "last_commit": "2026-08-21T17:13:00Z",
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 13708
+                "stars": 13709
               }
             },
             {
@@ -1778,6 +2202,28 @@
           "description": null,
           "node_type": "group",
           "title": "Application"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CloudGoat",
+              "description": "Rhino Security Labs' \"Vulnerable by Design\" AWS infrastructure setup tool - Written by @RhinoSecurityLabs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141209050,
+                "language": "Python",
+                "last_commit": "2026-04-28T13:43:43Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "cloudgoat",
+                "stars": 3704
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
         }
       ],
       "title": "Practices"
@@ -1880,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:01:38.375Z",
+    "last_updated": "2026-08-24T13:49:59.786Z",
     "original_repository": "qazbnm456/awesome-web-security",
     "original_repository_id": 80358070,
     "original_repository_sha": "f2811dba2e290b63a8668a52cb7d31bfd05fb896",
