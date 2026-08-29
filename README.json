@@ -12,12 +12,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -28,12 +51,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome XSS stuff",
+                "homepage": null,
                 "id": 124765446,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-30T19:01:10Z",
+                "open_issues": 1,
                 "owner": "s0md3v",
                 "repo": "AwesomeXSS",
-                "stars": 5140
+                "stars": 5140,
+                "topics": [
+                  "payload",
+                  "payload-list",
+                  "xss",
+                  "xss-cheatsheet",
+                  "xss-detection",
+                  "xss-payloads"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -44,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
+                "homepage": "https://html5sec.org/",
                 "id": 18205926,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2022-02-23T16:46:20Z",
+                "open_issues": 2,
                 "owner": "cure53",
                 "repo": "H5SC",
-                "stars": 2938
+                "stars": 2938,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -60,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A XSS mind map ;)",
+                "homepage": null,
                 "id": 49764548,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-01-16T07:06:43Z",
+                "open_issues": 0,
                 "owner": "LucaBongiorni",
                 "repo": "XSS.png",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -83,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Content released at NorthSec 2018 for my talk on prototype pollution",
+                "homepage": null,
                 "id": 133569556,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-25T15:10:24Z",
+                "open_issues": 1,
                 "owner": "HoLyVieR",
                 "repo": "prototype-pollution-nsec18",
-                "stars": 540
+                "stars": 540,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -106,12 +156,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -129,12 +202,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -152,12 +248,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -168,12 +287,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ruby Programming Language",
+                "homepage": "https://www.ruby-lang.org/",
                 "id": 538746,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T19:05:27Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:16:06Z",
+                "open_issues": 690,
                 "owner": "ruby",
                 "repo": "ruby",
-                "stars": 23689
+                "stars": 23689,
+                "topics": [
+                  "c",
+                  "jit",
+                  "language",
+                  "object-oriented",
+                  "programming-language",
+                  "ruby",
+                  "ruby-language",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -191,12 +324,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -214,12 +370,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -237,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A whole bunch of public pentest reports & papers",
+                "homepage": null,
                 "id": 18464284,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-23T13:22:31Z",
+                "open_issues": 0,
                 "owner": "cure53",
                 "repo": "Publications",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -260,12 +444,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -283,12 +490,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -306,12 +536,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -329,12 +582,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -352,12 +628,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+                "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
                 "id": 71220757,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:52:21Z",
+                "open_issues": 35,
                 "owner": "swisskyrepo",
                 "repo": "PayloadsAllTheThings",
-                "stars": 80461
+                "stars": 80467,
+                "topics": [
+                  "bounty",
+                  "bugbounty",
+                  "bypass",
+                  "cheatsheet",
+                  "enumeration",
+                  "hacking",
+                  "hacktoberfest",
+                  "methodology",
+                  "payload",
+                  "payloads",
+                  "penetration-testing",
+                  "pentest",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "vulnerability",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -375,12 +674,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checklist of security precautions for Ruby on Rails applications.",
+                "homepage": null,
                 "id": 87855245,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-03-09T11:42:57Z",
+                "open_issues": 1,
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
-                "stars": 1811
+                "stars": 1811,
+                "topics": [
+                  "checklist",
+                  "rails",
+                  "ruby",
+                  "ruby-on-rails",
+                  "security",
+                  "security-vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -398,12 +709,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔐 Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication for a java based web server and a client with both Spring Boot. Different clients are provided such as Apache HttpClient, OkHttp, Spring RestTemplate, Spring WebFlux WebClient Jetty and Netty, the old and the new JDK HttpClient, the old and the new Jersey Client, Google HttpClient, Unirest, Retrofit, Feign, Methanol, vertx, Scala client Finagle, Featherbed, Dispatch Reboot, AsyncHttpClient, Sttp, Akka, Requests Scala, Http4s Blaze, Kotlin client Fuel, http4k, Kohttp and ktor. Also other server examples are available such as jersey with grizzly. Also gRPC, WebSocket and ElasticSearch examples are included",
+                "homepage": null,
                 "id": 157111668,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:19:32Z",
+                "open_issues": 1,
                 "owner": "Hakky54",
                 "repo": "mutual-tls-ssl",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "certificate",
+                  "certificate-authority",
+                  "certificate-signing-request",
+                  "encryption",
+                  "https",
+                  "java",
+                  "keystore",
+                  "keytool",
+                  "kotlin",
+                  "mutual-authentication",
+                  "mutual-tls",
+                  "openssl",
+                  "scala",
+                  "security",
+                  "server",
+                  "spring-boot",
+                  "ssl",
+                  "tls",
+                  "truststore",
+                  "two-way-ssl-authentication"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -421,12 +758,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose them directly, using event-driven pressure to elevate vendor security standards and advance the field.",
+                "homepage": "http://0day-rubbish.com/",
                 "id": 1285900799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T05:47:07Z",
+                "open_issues": 0,
                 "owner": "Exploit-Garbage",
                 "repo": "0day-Rubbish",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "0day",
+                  "ai-security",
+                  "disclosure",
+                  "erp-security",
+                  "exploit",
+                  "poc",
+                  "rce",
+                  "red-team",
+                  "scada",
+                  "security",
+                  "vulnerability",
+                  "vulnerability-research"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -450,12 +805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stealing CSRF tokens with CSS injection (without iFrames)",
+                "homepage": "https://security.love/cssInjection/attacker.html",
                 "id": 120153657,
                 "language": "HTML",
+                "license": "GPL-2.0",
                 "last_commit": "2018-02-07T20:50:12Z",
+                "open_issues": 1,
                 "owner": "dxa4481",
                 "repo": "cssInjection",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -473,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "documentation and writing",
+                "homepage": null,
                 "id": 94472211,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-11T21:07:46Z",
+                "open_issues": 0,
                 "owner": "epidemics-scepticism",
                 "repo": "writing",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -502,12 +867,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✍️ A curated list of CVE PoCs.",
+                "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-cve-poc",
                 "id": 80700387,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-04T19:07:43Z",
+                "open_issues": 2,
                 "owner": "qazbnm456",
                 "repo": "awesome-cve-poc",
-                "stars": 3527
+                "stars": 3527,
+                "topics": [
+                  "awesome",
+                  "cve",
+                  "poc"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -518,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "各种漏洞poc、Exp的收集或编写",
+                "homepage": null,
                 "id": 32163997,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-24T09:10:37Z",
+                "open_issues": 2,
                 "owner": "coffeehb",
                 "repo": "Some-PoC-oR-ExP",
-                "stars": 2502
+                "stars": 2502,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -534,12 +913,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of JavaScript engine CVEs with PoCs",
+                "homepage": null,
                 "id": 65058285,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-09-03T22:42:41Z",
+                "open_issues": 0,
                 "owner": "tunz",
                 "repo": "js-vuln-db",
-                "stars": 2319
+                "stars": 2319,
+                "topics": [
+                  "cve",
+                  "javascript",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -550,12 +938,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔪Browser logic vulnerabilities :skull_and_crossbones:",
+                "homepage": "https://uxss-db.now.sh/",
                 "id": 108575421,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-01-23T16:44:56Z",
+                "open_issues": 0,
                 "owner": "Metnew",
                 "repo": "uxss-db",
-                "stars": 705
+                "stars": 705,
+                "topics": [
+                  "browser",
+                  "cve",
+                  "javascript",
+                  "security",
+                  "vulnerability",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -579,12 +979,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+                "homepage": "https://prowler.com",
                 "id": 66474729,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
+                "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14712
+                "stars": 14713,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cis-benchmark",
+                  "cloud",
+                  "cloudsecurity",
+                  "compliance",
+                  "cspm",
+                  "devsecops",
+                  "forensics",
+                  "gcp",
+                  "gdpr",
+                  "hacktoberfest",
+                  "hardening",
+                  "iam",
+                  "multi-cloud",
+                  "python",
+                  "security",
+                  "security-audit",
+                  "security-hardening",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -595,12 +1021,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Auto Scanning to SSL Vulnerability",
+                "homepage": null,
                 "id": 50333152,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-12T05:10:10Z",
+                "open_issues": 16,
                 "owner": "hahwul",
                 "repo": "a2sv",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "hacking",
+                  "scanner",
+                  "security",
+                  "ssl",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -611,12 +1048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "this can't keep happening",
+                "homepage": null,
                 "id": 519405997,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-07-30T03:14:17Z",
+                "open_issues": 1,
                 "owner": "hehnope",
                 "repo": "slurp",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -634,12 +1076,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated All-in-One OS Command Injection Exploitation Tool",
+                "homepage": "https://commixproject.com",
                 "id": 32572504,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T03:34:39Z",
+                "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5828
+                "stars": 5828,
+                "topics": [
+                  "bugbounty",
+                  "command-injection",
+                  "commix",
+                  "detection",
+                  "exploitation",
+                  "open-source",
+                  "pentesting",
+                  "python",
+                  "takeover",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -659,12 +1117,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Incredibly fast crawler designed for OSINT.",
+                    "homepage": null,
                     "id": 127466226,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-07T12:50:36Z",
+                    "open_issues": 59,
                     "owner": "s0md3v",
                     "repo": "Photon",
-                    "stars": 13154
+                    "stars": 13155,
+                    "topics": [
+                      "crawler",
+                      "information-gathering",
+                      "osint",
+                      "python",
+                      "spider"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -675,12 +1144,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Reconnaissance tool for GitHub organizations",
+                    "homepage": "https://michenriksen.com/blog/gitrob-now-in-go/",
                     "id": 28916646,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-09-20T18:09:09Z",
+                    "open_issues": 74,
                     "owner": "michenriksen",
                     "repo": "gitrob",
-                    "stars": 6199
+                    "stars": 6199,
+                    "topics": [
+                      "github-api",
+                      "golang",
+                      "osint",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -691,12 +1170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)",
+                    "homepage": null,
                     "id": 140092786,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-02-25T18:08:41Z",
+                    "open_issues": 48,
                     "owner": "Greenwolf",
                     "repo": "social_mapper",
-                    "stars": 4073
+                    "stars": 4073,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -707,12 +1191,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+                    "homepage": null,
                     "id": 133257682,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-21T21:23:15Z",
+                    "open_issues": 14,
                     "owner": "evyatarmeged",
                     "repo": "Raccoon",
-                    "stars": 4004
+                    "stars": 4004,
+                    "topics": [
+                      "enumeration",
+                      "fuzzing",
+                      "hacking",
+                      "hacking-tool",
+                      "information-gathering",
+                      "offensive-security",
+                      "osint",
+                      "pentest-tool",
+                      "pentesting",
+                      "raccoon",
+                      "reconnaissance",
+                      "scanner",
+                      "security-scanner",
+                      "vulnerability-assessment",
+                      "vulnerability-scanner"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -723,12 +1228,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool to find metadata and hidden information in the documents.",
+                    "homepage": "https://www.elevenpaths.com/innovation-labs/technologies/foca",
                     "id": 105561188,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-12-08T09:31:55Z",
+                    "open_issues": 26,
                     "owner": "ElevenPaths",
                     "repo": "FOCA",
-                    "stars": 3622
+                    "stars": 3622,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -739,12 +1249,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "XRay is a tool for recon, mapping and OSINT gathering from public networks.",
+                    "homepage": null,
                     "id": 96643394,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-10T09:43:56Z",
+                    "open_issues": 5,
                     "owner": "evilsocket",
                     "repo": "xray",
-                    "stars": 2331
+                    "stars": 2331,
+                    "topics": [
+                      "intelligence",
+                      "mapping",
+                      "network",
+                      "osint",
+                      "security",
+                      "shodan"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -755,12 +1277,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）",
+                    "homepage": "https://feei.cn/gsil/",
                     "id": 106538615,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-11-28T09:50:29Z",
+                    "open_issues": 7,
                     "owner": "FeeiCN",
                     "repo": "GSIL",
-                    "stars": 2145
+                    "stars": 2145,
+                    "topics": [
+                      "security-scanner",
+                      "security-tools",
+                      "sensitive-data",
+                      "sensitive-data-security"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -771,12 +1303,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reconnaissance Swiss Army Knife",
+                    "homepage": null,
                     "id": 94127025,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-26T05:17:13Z",
+                    "open_issues": 15,
                     "owner": "s0md3v",
                     "repo": "ReconDog",
-                    "stars": 2102
+                    "stars": 2102,
+                    "topics": [
+                      "cms-detector",
+                      "honeypot-detector",
+                      "information-gathering",
+                      "recon",
+                      "subdomain-enumeration"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -787,12 +1330,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The most complete open-source tool for Twitter intelligence analysis",
+                    "homepage": null,
                     "id": 119193512,
                     "language": "Python",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2019-02-06T22:22:17Z",
+                    "open_issues": 28,
                     "owner": "vaguileradiaz",
                     "repo": "tinfoleak",
-                    "stars": 1980
+                    "stars": 1980,
+                    "topics": [
+                      "intelligence",
+                      "osint",
+                      "socialmedia",
+                      "socmint",
+                      "twitter"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -803,12 +1357,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.",
+                    "homepage": null,
                     "id": 101079757,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2020-05-18T20:19:24Z",
+                    "open_issues": 3,
                     "owner": "0x09AL",
                     "repo": "raven",
-                    "stars": 798
+                    "stars": 798,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -819,12 +1378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 104906468,
                     "language": "Dockerfile",
+                    "license": null,
                     "last_commit": "2018-08-25T04:56:53Z",
+                    "open_issues": 2,
                     "owner": "espi0n",
                     "repo": "Dockerfiles",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -835,12 +1399,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔌 OSINT & Security Extensions for Marshall Browser - Installable plugins for enhanced reconnaissance and security testing",
+                    "homepage": null,
                     "id": 1142051076,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-02-27T20:08:33Z",
+                    "open_issues": 0,
                     "owner": "bad-antics",
                     "repo": "marshall-extensions",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "browser-extension",
+                      "golang",
+                      "honeypot",
+                      "osint",
+                      "penetration-testing",
+                      "rust",
+                      "sandbox",
+                      "security",
+                      "security-tools",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -858,12 +1438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast subdomains enumeration tool for penetration testers",
+                    "homepage": null,
                     "id": 48010677,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-08-02T00:00:30Z",
+                    "open_issues": 253,
                     "owner": "aboul3la",
                     "repo": "Sublist3r",
-                    "stars": 11024
+                    "stars": 11025,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -874,12 +1459,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Tool for Domain Flyovers",
+                    "homepage": "https://michenriksen.com/blog/aquatone-now-in-go/",
                     "id": 46488106,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-05-22T19:49:32Z",
+                    "open_issues": 106,
                     "owner": "michenriksen",
                     "repo": "aquatone",
-                    "stars": 5960
+                    "stars": 5959,
+                    "topics": [
+                      "chrome-headless",
+                      "chromium",
+                      "golang",
+                      "osint",
+                      "reconnaissance",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -890,12 +1487,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast sub domain brute tool for pentesters",
+                    "homepage": null,
                     "id": 33232814,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-15T17:02:42Z",
+                    "open_issues": 16,
                     "owner": "lijiejie",
                     "repo": "subDomainsBrute",
-                    "stars": 3621
+                    "stars": 3621,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -906,12 +1508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Analyze the security of any domain by finding all the information possible. Made in python.",
+                    "homepage": null,
                     "id": 99725988,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-29T10:57:33Z",
+                    "open_issues": 10,
                     "owner": "eldraco",
                     "repo": "domain_analyzer",
-                    "stars": 1861
+                    "stars": 1861,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -922,12 +1529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Auditing for TLS certificates.",
+                    "homepage": "https://certificate.transparency.dev",
                     "id": 19989605,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-02T10:33:41Z",
+                    "open_issues": 78,
                     "owner": "google",
                     "repo": "certificate-transparency",
-                    "stars": 887
+                    "stars": 887,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -938,12 +1550,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A domain searcher named GoogleSSLdomainFinder - 基于谷歌SSL透明证书的子域名查询工具",
+                    "homepage": null,
                     "id": 76880432,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-02-01T08:57:38Z",
+                    "open_issues": 1,
                     "owner": "We5ter",
                     "repo": "GSDF",
-                    "stars": 184
+                    "stars": 184,
+                    "topics": [
+                      "domain-scanner",
+                      "subdomain"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -954,12 +1574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
+                    "homepage": "https://www.christophertruncer.com/eyewitness-usage-guide/",
                     "id": 808759614,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-31T19:10:52Z",
+                    "open_issues": 0,
                     "owner": "ChrisTruncer",
                     "repo": "EyeWitness",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -982,12 +1607,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulnerable Web applications Generator",
+                "homepage": null,
                 "id": 56078217,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-10T05:23:27Z",
+                "open_issues": 0,
                 "owner": "qazbnm456",
                 "repo": "VWGen",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "addon",
+                  "docker",
+                  "generator",
+                  "python",
+                  "tsaotun",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1005,12 +1642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+                "homepage": null,
                 "id": 42261096,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-11-10T16:15:18Z",
+                "open_issues": 15,
                 "owner": "fuzzdb-project",
                 "repo": "fuzzdb",
-                "stars": 8980
+                "stars": 8979,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1021,12 +1663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application fuzzer",
+                "homepage": "http://wfuzz.io",
                 "id": 25605151,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-21T15:31:40Z",
+                "open_issues": 117,
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6559
+                "stars": 6560,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1037,12 +1684,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Potentially dangerous files",
+                "homepage": "https://t.me/webpwn",
                 "id": 49954841,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-28T10:36:48Z",
+                "open_issues": 8,
                 "owner": "Bo0oM",
                 "repo": "fuzz.txt",
-                "stars": 3321
+                "stars": 3321,
+                "topics": [
+                  "dirbuster",
+                  "files",
+                  "fuzz",
+                  "list",
+                  "vulnerability",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1053,12 +1712,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find web directories without bruteforce",
+                "homepage": null,
                 "id": 116323642,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-29T00:20:05Z",
+                "open_issues": 15,
                 "owner": "Nekmo",
                 "repo": "dirhunt",
-                "stars": 2007
+                "stars": 2007,
+                "topics": [
+                  "crawler",
+                  "dirscanner",
+                  "pentesting",
+                  "python",
+                  "security",
+                  "security-tools",
+                  "websec",
+                  "without-bruteforce"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1069,12 +1742,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOM fuzzer",
+                "homepage": "https://googleprojectzero.blogspot.ch/2017/09/the-great-dom-fuzz-off-of-2017.html",
                 "id": 104365791,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-26T08:55:07Z",
+                "open_issues": 3,
                 "owner": "googleprojectzero",
                 "repo": "domato",
-                "stars": 1784
+                "stars": 1784,
+                "topics": [
+                  "dom",
+                  "fuzzing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1085,12 +1767,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpiderSuite (web security crawler) releases, wiki and roadmap",
+                "homepage": "https://SpiderSuite.io",
                 "id": 623960651,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-13T19:19:50Z",
+                "open_issues": 12,
                 "owner": "spidersuite",
                 "repo": "SpiderSuite",
-                "stars": 974
+                "stars": 974,
+                "topics": [
+                  "bugbounty",
+                  "cplusplus",
+                  "crawler",
+                  "cybersecurity",
+                  "cybersecurity-tools",
+                  "gui",
+                  "information-gathering",
+                  "osint-tool",
+                  "pentest",
+                  "recon",
+                  "security-tools",
+                  "spider",
+                  "web-spider",
+                  "webcrawler"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1101,12 +1803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple tool to convert the IP to a DWORD IP ",
+                "homepage": null,
                 "id": 57466230,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-29T11:08:24Z",
+                "open_issues": 1,
                 "owner": "OsandaMalith",
                 "repo": "IPObfuscator",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1117,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script that inspects multi-byte character sets looking for characters with specific user-defined properties",
+                "homepage": null,
                 "id": 61814720,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-06-23T16:11:23Z",
+                "open_issues": 0,
                 "owner": "hack-all-the-things",
                 "repo": "charsetinspect",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1133,12 +1845,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch and normalize parameterized URLs from the Wayback CDX API (OSINT, inspired by ParamSpider).",
+                "homepage": "https://aleff-github.github.io/wayparam/",
                 "id": 1119617256,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-01T12:52:44Z",
+                "open_issues": 0,
                 "owner": "aleff-github",
                 "repo": "wayparam",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bugbounty",
+                  "cdx",
+                  "cli",
+                  "kali-linux",
+                  "osint",
+                  "parrot",
+                  "pip",
+                  "pypi",
+                  "pypi-package",
+                  "python",
+                  "recon",
+                  "security",
+                  "url",
+                  "wayback",
+                  "wayback-machine"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1156,12 +1889,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+                "homepage": "https://docs.projectdiscovery.io/tools/nuclei",
                 "id": 252813491,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:56:57Z",
+                "open_issues": 106,
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30899
+                "stars": 30908,
+                "topics": [
+                  "attack-surface",
+                  "cve-scanner",
+                  "dast",
+                  "hacktoberfest",
+                  "nuclei-engine",
+                  "security",
+                  "security-scanner",
+                  "subdomain-takeover",
+                  "vulnerability-assessment",
+                  "vulnerability-detection",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1172,12 +1922,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com",
+                "homepage": "https://wpscan.com/wordpress-cli-scanner",
                 "id": 4994614,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T09:03:17Z",
+                "open_issues": 0,
                 "owner": "wpscanteam",
                 "repo": "wpscan",
-                "stars": 9743
+                "stars": 9743,
+                "topics": [
+                  "hacking-tool",
+                  "scan",
+                  "scanner",
+                  "security",
+                  "security-scanner",
+                  "wordpress",
+                  "wpscan",
+                  "wpvulndb"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1188,12 +1952,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision",
+                "homepage": "https://www.vigolium.com/",
                 "id": 1176032914,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T16:03:12Z",
+                "open_issues": 6,
                 "owner": "vigolium",
                 "repo": "vigolium",
-                "stars": 1053
+                "stars": 1053,
+                "topics": [
+                  "bug-bounty",
+                  "dast",
+                  "security",
+                  "security-audit",
+                  "security-scanner",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1204,12 +1980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan.",
+                "homepage": null,
                 "id": 51548301,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-01T17:04:49Z",
+                "open_issues": 5,
                 "owner": "drego85",
                 "repo": "JoomlaScan",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1220,12 +2001,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy-first Chrome extension for real-time website security analysis using on-device AI. Trust scores (0-100), phishing detection, SSL verification, cookie compliance & AI chatbot powered by WebLLM with zero external data transmission.",
+                "homepage": null,
                 "id": 1106702253,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-29T20:02:17Z",
+                "open_issues": 0,
                 "owner": "sattyamjjain",
                 "repo": "zerotrust",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "browser-extension",
+                  "chrome-extension",
+                  "cybersecurity",
+                  "on-device-ai",
+                  "phishing-detection",
+                  "privacy",
+                  "react",
+                  "security",
+                  "tailwindcss",
+                  "typescript",
+                  "webgpu",
+                  "webllm",
+                  "website-scanner",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1236,12 +2037,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Is this app legit? Check before you connect. Free URL security scanner for indie developers and AI builders. Live at trustscanpro.com",
+                "homepage": "https://trustscanpro.com",
                 "id": 1123920193,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-25T09:26:33Z",
+                "open_issues": 6,
                 "owner": "undeadlist",
                 "repo": "trust-scan",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ai-tools",
+                  "developer-tools",
+                  "docker",
+                  "fraud-detection",
+                  "indie-dev",
+                  "malware-detection",
+                  "nextjs",
+                  "ollama",
+                  "open-source",
+                  "phishing-detection",
+                  "phishing-scanner",
+                  "scam-detection",
+                  "security",
+                  "self-hosted",
+                  "threat-intelligence",
+                  "trust-verification",
+                  "typescript",
+                  "url-scanner"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1259,12 +2084,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Security Testing For REST API's",
+                "homepage": null,
                 "id": 116951658,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-05T17:35:29Z",
+                "open_issues": 66,
                 "owner": "flipkart-incubator",
                 "repo": "Astra",
-                "stars": 2660
+                "stars": 2660,
+                "topics": [
+                  "ci-cd",
+                  "owasp",
+                  "penetration-testing",
+                  "penetration-testing-framework",
+                  "postman-collection",
+                  "python",
+                  "restapiautomation",
+                  "sdlc",
+                  "security",
+                  "security-automation"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1275,12 +2116,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Offensive Manual Web Application Penetration Testing Framework.",
+                "homepage": null,
                 "id": 136580263,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-19T19:02:06Z",
+                "open_issues": 16,
                 "owner": "0xInfection",
                 "repo": "TIDoS-Framework",
-                "stars": 1868
+                "stars": 1868,
+                "topics": [
+                  "enumeration",
+                  "exploitation",
+                  "footprinting",
+                  "intelligence-gathering",
+                  "osint",
+                  "reconnaissance",
+                  "scanning-enumeration",
+                  "tidos-framework",
+                  "vulnerability-analysis",
+                  "vulnerability-detection",
+                  "web-application-security",
+                  "web-fuzzer",
+                  "web-penetration-testing"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1291,12 +2151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of AWS penetration testing junk",
+                "homepage": null,
                 "id": 71204465,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-30T11:12:51Z",
+                "open_issues": 3,
                 "owner": "dagrz",
                 "repo": "aws_pwn",
-                "stars": 1223
+                "stars": 1223,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1307,12 +2172,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+                "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T10:02:54Z",
+                "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 876
+                "stars": 877,
+                "topics": [
+                  "active-directory",
+                  "ai-agents",
+                  "ai-red-team",
+                  "ai-security-tool",
+                  "autonomous-agents",
+                  "cloud-security",
+                  "firmware-security",
+                  "iot-security",
+                  "kubernetes",
+                  "llm",
+                  "local-llm",
+                  "mcp",
+                  "multi-agent-systems",
+                  "offensive-security",
+                  "penetration-testing",
+                  "pentesting",
+                  "red-team",
+                  "security-automation",
+                  "security-tools",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1323,12 +2214,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AI Agent for Cyber Security.",
+                "homepage": null,
                 "id": 1147932880,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-08T22:41:59Z",
+                "open_issues": 5,
                 "owner": "FrancescoStabile",
                 "repo": "numasec",
-                "stars": 607
+                "stars": 611,
+                "topics": [
+                  "ai-agent",
+                  "ai-security",
+                  "appsec",
+                  "bug-bounty",
+                  "cli",
+                  "cybersecurity",
+                  "dast",
+                  "devsecops",
+                  "ethical-hacking",
+                  "llm",
+                  "mcp",
+                  "mcp-tools",
+                  "owasp",
+                  "penetration-testing",
+                  "red-team",
+                  "security-automation",
+                  "security-testing",
+                  "typescript",
+                  "vulnerability-scanner",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1339,12 +2256,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline-first, searchable arsenal for pentesting & bug bounty: payloads, a click-to-build command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells, checklists & an engagement tracker.",
+                "homepage": "https://inflictx.github.io/Arsenal/",
                 "id": 1278099295,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-09T16:10:59Z",
+                "open_issues": 4,
                 "owner": "inflictx",
                 "repo": "Arsenal",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "appsec",
+                  "bug-bounty",
+                  "ctf",
+                  "cyberchef",
+                  "gtfobins",
+                  "infosec",
+                  "offensive-security",
+                  "payloads",
+                  "pentesting",
+                  "red-team",
+                  "reverse-shell",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1364,12 +2299,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Most advanced XSS scanner.",
+                    "homepage": null,
                     "id": 95419982,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-26T08:47:06Z",
+                    "open_issues": 94,
                     "owner": "s0md3v",
                     "repo": "XSStrike",
-                    "stars": 15156
+                    "stars": 15156,
+                    "topics": [
+                      "waf-detection",
+                      "xss",
+                      "xss-bruteforce",
+                      "xss-detection",
+                      "xss-exploit",
+                      "xss-python",
+                      "xss-scanner",
+                      "xsstrike"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -1380,12 +2329,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Browser Exploitation Framework Project",
+                    "homepage": "https://beefproject.com",
                     "id": 2833881,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-28T13:03:03Z",
+                    "open_issues": 37,
                     "owner": "beefproject",
                     "repo": "beef",
-                    "stars": 10990
+                    "stars": 10990,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -1396,12 +2350,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "XSS'OR - Hack with JavaScript.",
+                    "homepage": null,
                     "id": 95342894,
                     "language": "JavaScript",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-12-12T09:58:05Z",
+                    "open_issues": 4,
                     "owner": "evilcos",
                     "repo": "xssor2",
-                    "stars": 2224
+                    "stars": 2224,
+                    "topics": [
+                      "csrf",
+                      "encoding",
+                      "hack",
+                      "hacking-tool",
+                      "pentest",
+                      "pentest-tool",
+                      "probe",
+                      "xss"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 },
@@ -1412,12 +2380,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JShell - Get a JavaScript shell with XSS.",
+                    "homepage": null,
                     "id": 122975343,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-05-05T15:49:41Z",
+                    "open_issues": 1,
                     "owner": "s0md3v",
                     "repo": "JShell",
-                    "stars": 530
+                    "stars": 530,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -1435,12 +2408,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic SQL injection and database takeover tool",
+                    "homepage": "http://sqlmap.org",
                     "id": 4793392,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T07:44:26Z",
+                    "open_issues": 32,
                     "owner": "sqlmapproject",
                     "repo": "sqlmap",
-                    "stars": 38292
+                    "stars": 38294,
+                    "topics": [
+                      "api-security",
+                      "appsec",
+                      "database",
+                      "database-security",
+                      "dbms",
+                      "detection",
+                      "exploitation",
+                      "pentesting",
+                      "python",
+                      "security-testing",
+                      "security-testing-tool",
+                      "sql-injection",
+                      "sqlinjection",
+                      "webapp-security",
+                      "webappsec"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -1458,12 +2452,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
+                    "homepage": null,
                     "id": 62751496,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-04-21T14:47:13Z",
+                    "open_issues": 46,
                     "owner": "epinna",
                     "repo": "tplmap",
-                    "stars": 4198
+                    "stars": 4198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -1481,12 +2480,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "List DTDs and generate XXE payloads using those local DTDs.",
+                    "homepage": "https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation",
                     "id": 197065783,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2024-02-21T00:00:00Z",
+                    "open_issues": 1,
                     "owner": "GoSecure",
                     "repo": "dtd-finder",
-                    "stars": 663
+                    "stars": 663,
+                    "topics": [
+                      "dtd",
+                      "hacktoberfest",
+                      "security",
+                      "xxe"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -1504,12 +2513,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.",
+                    "homepage": null,
                     "id": 145513029,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-12T07:07:02Z",
+                    "open_issues": 0,
                     "owner": "0xInfection",
                     "repo": "XSRFProbe",
-                    "stars": 1302
+                    "stars": 1302,
+                    "topics": [
+                      "audit",
+                      "crafted-tokens",
+                      "crawler",
+                      "csrf",
+                      "csrf-attacks",
+                      "csrf-poc",
+                      "csrf-scanner",
+                      "csrf-tokens",
+                      "spider",
+                      "token-generation",
+                      "xsrf"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:59.091Z"
                 }
@@ -1532,12 +2558,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find secrets with Gitleaks 🔑",
+                "homepage": "https://gitleaks.io",
                 "id": 119190187,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T04:17:05Z",
+                "open_issues": 467,
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 28995
+                "stars": 29001,
+                "topics": [
+                  "ai-powered",
+                  "ci-cd",
+                  "cicd",
+                  "cli",
+                  "data-loss-prevention",
+                  "devsecops",
+                  "dlp",
+                  "git",
+                  "gitleaks",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "llm",
+                  "llm-inference",
+                  "llm-training",
+                  "nhi",
+                  "open-source",
+                  "secret",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1548,12 +2600,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python script that finds endpoints in JavaScript files",
+                "homepage": "https://gerbenjavado.com/discovering-hidden-content-using-linkfinder",
                 "id": 93853890,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-13T09:53:27Z",
+                "open_issues": 53,
                 "owner": "GerbenJavado",
                 "repo": "LinkFinder",
-                "stars": 4438
+                "stars": 4438,
+                "topics": [
+                  "endpoints",
+                  "infosec"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1564,12 +2624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome extension and Express server that exploits keylogging abilities of CSS.",
+                "homepage": null,
                 "id": 122236970,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2018-02-20T23:49:04Z",
+                "open_issues": 0,
                 "owner": "maxchehab",
                 "repo": "CSS-Keylogging",
-                "stars": 3240
+                "stars": 3240,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1580,12 +2645,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for advanced mining for content on Github",
+                "homepage": null,
                 "id": 52665794,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-05T04:02:16Z",
+                "open_issues": 13,
                 "owner": "UnkL4b",
                 "repo": "GitMiner",
-                "stars": 2151
+                "stars": 2151,
+                "topics": [
+                  "git-mining-tool",
+                  "gitminer",
+                  "information-gathering-tool"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1596,12 +2670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTPLeaks - All possible ways, a website can leak HTTP requests",
+                "homepage": null,
                 "id": 34122182,
                 "language": "HTML",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-01-03T15:53:07Z",
+                "open_issues": 0,
                 "owner": "cure53",
                 "repo": "HTTPLeaks",
-                "stars": 2117
+                "stars": 2117,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1612,12 +2691,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to scan for secret files on HTTP servers",
+                "homepage": null,
                 "id": 128925862,
                 "language": "Python",
+                "license": "0BSD",
                 "last_commit": "2026-02-04T11:26:43Z",
+                "open_issues": 12,
                 "owner": "hannob",
                 "repo": "snallygaster",
-                "stars": 2111
+                "stars": 2111,
+                "topics": [
+                  "security",
+                  "websecurity"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1628,12 +2715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rip web accessible (distributed) version control systems: SVN/GIT/HG...",
+                "homepage": null,
                 "id": 6347029,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2024-07-19T12:49:07Z",
+                "open_issues": 11,
                 "owner": "kost",
                 "repo": "dvcs-ripper",
-                "stars": 1784
+                "stars": 1784,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1644,12 +2736,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passive API key and secret discovery browser extension for Chrome and Firefox. 80+ detection patterns, zero config.",
+                "homepage": "https://chromewebstore.google.com/detail/keyfinder/oogbljkilkfgdlkbmajlolpanilnnkim",
                 "id": 200982630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-19T03:09:26Z",
+                "open_issues": 5,
                 "owner": "momenbasel",
                 "repo": "keyFinder",
-                "stars": 704
+                "stars": 704,
+                "topics": [
+                  "api-keys",
+                  "api-security",
+                  "aws-keys",
+                  "browser-extension",
+                  "bug-bounty",
+                  "bugbounty",
+                  "chrome-extension",
+                  "cybersecurity",
+                  "hacking",
+                  "infosec",
+                  "javascript",
+                  "leaked-credentials",
+                  "manifest-v3",
+                  "osint",
+                  "pentesting",
+                  "reconnaissance",
+                  "secret-detection",
+                  "secret-scanner",
+                  "secrets",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1660,12 +2778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pillage web accessible GIT, HG and BZR repositories",
+                "homepage": null,
                 "id": 1917031,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-01-19T22:24:09Z",
+                "open_issues": 7,
                 "owner": "evilpacket",
                 "repo": "DVCS-Pillage",
-                "stars": 330
+                "stars": 330,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1676,12 +2799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git manager for pentesters",
+                "homepage": null,
                 "id": 52501530,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-06-04T19:19:28Z",
+                "open_issues": 1,
                 "owner": "allyshka",
                 "repo": "pwngitmanager",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1699,12 +2827,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.",
+                "homepage": "https://retirejs.github.io/retire.js/",
                 "id": 12496161,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T12:25:59Z",
+                "open_issues": 2,
                 "owner": "RetireJS",
                 "repo": "retire.js",
-                "stars": 4162
+                "stars": 4163,
+                "topics": [
+                  "build-tool",
+                  "chrome-extension",
+                  "firefox-extension",
+                  "grunt-plugins",
+                  "insecure-libraries",
+                  "javascript",
+                  "sbom",
+                  "sbom-generator",
+                  "sbom-tool",
+                  "scanner",
+                  "security",
+                  "software-composition-analysis",
+                  "vulnerabilities",
+                  "vulnerable-libraries"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1715,12 +2863,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥Open source RASP solution",
+                "homepage": "https://rasp.baidu.com",
                 "id": 99914450,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-02T11:34:31Z",
+                "open_issues": 62,
                 "owner": "baidu",
                 "repo": "openrasp",
-                "stars": 2987
+                "stars": 2987,
+                "topics": [
+                  "devsecops",
+                  "iast",
+                  "rasp",
+                  "security",
+                  "waf"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1731,12 +2890,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scan your code for security misconfiguration, search for passwords and secrets. :mag:",
+                "homepage": null,
                 "id": 82721984,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-23T07:17:30Z",
+                "open_issues": 18,
                 "owner": "okta-graveyard",
                 "repo": "repo-supervisor",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "blueteam",
+                  "redteam",
+                  "secret-management",
+                  "secrets",
+                  "secrets-detection",
+                  "security",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1747,12 +2919,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+                "homepage": null,
                 "id": 114180770,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:31:09Z",
+                "open_issues": 20,
                 "owner": "LewisArdern",
                 "repo": "bXSS",
-                "stars": 577
+                "stars": 577,
+                "topics": [
+                  "blueteam",
+                  "bugbounty",
+                  "bxss",
+                  "cross-site-scripting",
+                  "infosec",
+                  "security",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1763,12 +2948,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction. Written for Node.js",
+                "homepage": null,
                 "id": 49388942,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-16T16:17:47Z",
+                "open_issues": 5,
                 "owner": "HynekPetrak",
                 "repo": "malware-jail",
-                "stars": 479
+                "stars": 479,
+                "topics": [
+                  "analysis",
+                  "angler",
+                  "deobfuscation",
+                  "javascript",
+                  "malware-analysis",
+                  "malware-analyzer",
+                  "malware-jail",
+                  "malware-research",
+                  "malware-samples",
+                  "payload",
+                  "payload-extraction",
+                  "wscript"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1786,12 +2989,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:",
+                "homepage": "https://cure53.de/purify",
                 "id": 16927692,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T06:24:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:08:32Z",
+                "open_issues": 7,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17346
+                "stars": 17346,
+                "topics": [
+                  "cross-site-scripting",
+                  "dom",
+                  "dompurify",
+                  "html",
+                  "javascript",
+                  "mathml",
+                  "prevent-xss-attacks",
+                  "sanitizer",
+                  "security",
+                  "svg",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1802,12 +3022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+                "homepage": "http://jsxss.com",
                 "id": 5857265,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-06T11:36:47Z",
+                "open_issues": 69,
                 "owner": "leizongmin",
                 "repo": "js-xss",
-                "stars": 5312
+                "stars": 5312,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1818,12 +3043,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.",
+                "homepage": "https://waf.uusec.com",
                 "id": 538093499,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-23T12:03:14Z",
+                "open_issues": 83,
                 "owner": "Safe3",
                 "repo": "uusec-waf",
-                "stars": 1704
+                "stars": 1704,
+                "topics": [
+                  "api-gateway",
+                  "api-security",
+                  "application-security",
+                  "data-mask",
+                  "ddos",
+                  "hips",
+                  "letsencrypt",
+                  "modsecurity",
+                  "owasp",
+                  "rasp",
+                  "security",
+                  "sql-injection",
+                  "uusec",
+                  "uusec-waf",
+                  "uuwaf",
+                  "waap",
+                  "waf",
+                  "web-application-firewall",
+                  "web-security-gateway",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1834,12 +3085,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (\"transparent\") encryption. SQL, NoSQL.",
+                "homepage": "https://www.cossacklabs.com/acra/",
                 "id": 73724173,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T00:16:58Z",
+                "open_issues": 29,
                 "owner": "cossacklabs",
                 "repo": "acra",
-                "stars": 1491
+                "stars": 1491,
+                "topics": [
+                  "crypto",
+                  "cryptography",
+                  "database-proxy",
+                  "databases",
+                  "django",
+                  "encryption",
+                  "encryption-server",
+                  "golang",
+                  "honeypot",
+                  "intrusion-detection",
+                  "php",
+                  "python3",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1850,12 +3120,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.",
+                "homepage": "https://pompelmi.app",
                 "id": 1026124833,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-05-23T14:04:38Z",
+                "open_issues": 6,
                 "owner": "pompelmi",
                 "repo": "pompelmi",
-                "stars": 674
+                "stars": 674,
+                "topics": [
+                  "antivirus",
+                  "clamav",
+                  "clamscan",
+                  "docker-compose",
+                  "express",
+                  "file-scanner",
+                  "malware",
+                  "nodejs",
+                  "npm",
+                  "security",
+                  "typescript",
+                  "upload-file",
+                  "virus",
+                  "virus-scan"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1866,12 +3156,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, invisible CAPTCHA that detects AI agents driving real browsers. GDPR, WCAG 2.2 AA, and EAA: no cookies, no third-party data sharing, and no visual or audio puzzle. With a false-positive budget enforced in CI. Proof of work, drop-in for Turnstile and reCAPTCHA.",
+                "homepage": "https://webdecoy.com/product/fcaptcha/",
                 "id": 1124476057,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T20:22:42Z",
+                "open_issues": 0,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "ai-bot-detection",
+                  "anti-bot",
+                  "behavioral-analysis",
+                  "bot-detection",
+                  "captcha",
+                  "fingerprinting",
+                  "go",
+                  "headless-browser-detection",
+                  "invisible-captcha",
+                  "nodejs",
+                  "playwright-detection",
+                  "proof-of-work",
+                  "puppeteer-detection",
+                  "python",
+                  "scraping-protection",
+                  "security",
+                  "selenium-detector",
+                  "self-hosted",
+                  "tls-fingerprinting",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1882,12 +3198,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your users download a 4GB AI model, the connection drops at 3.8GB, verifyfetch resumes from 3.8GB and verifies every byte. Drop-in integrity verification for Transformers.js, WebLLM, and any large file in the browser.",
+                "homepage": "https://verifyfetch.com",
                 "id": 1141810923,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T18:53:45Z",
+                "open_issues": 0,
                 "owner": "hamzaydia",
                 "repo": "verifyfetch",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "ai-models",
+                  "browser",
+                  "fetch",
+                  "huggingface",
+                  "integrity",
+                  "javascript",
+                  "model-verification",
+                  "nodejs",
+                  "onnx",
+                  "resumable-downloads",
+                  "security",
+                  "sri",
+                  "supply-chain",
+                  "transformers-js",
+                  "typescript",
+                  "verification",
+                  "wasm",
+                  "web-ai",
+                  "webllm"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1898,12 +3239,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebDecoy Bot Detection — zero-config WordPress plugin for bot protection, spam prevention, and WooCommerce carding defense",
+                "homepage": "https://webdecoy.com",
                 "id": 1170272795,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T17:46:42Z",
+                "open_issues": 1,
                 "owner": "WebDecoy",
                 "repo": "wordpress-plugin",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "anti-spam",
+                  "bot-detection",
+                  "php",
+                  "security",
+                  "woocommerce",
+                  "wordpress",
+                  "wordpress-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1921,12 +3275,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+                "homepage": "https://mitmproxy.org",
                 "id": 519832,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T23:39:26Z",
+                "open_issues": 464,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44839
+                "stars": 44840,
+                "topics": [
+                  "debugging",
+                  "http",
+                  "http2",
+                  "man-in-the-middle",
+                  "mitmproxy",
+                  "proxy",
+                  "python",
+                  "security",
+                  "ssl",
+                  "tls",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1937,12 +3308,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.",
+                "homepage": "https://proxelar.micheletti.io",
                 "id": 591022890,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:05:10Z",
+                "open_issues": 7,
                 "owner": "emanuele-em",
                 "repo": "proxelar",
-                "stars": 1050
+                "stars": 1050,
+                "topics": [
+                  "cli",
+                  "http-proxy",
+                  "https-proxy",
+                  "man-in-the-middle",
+                  "mitm",
+                  "network",
+                  "network-security",
+                  "proxy",
+                  "reverse-proxy",
+                  "rust",
+                  "ssl",
+                  "tls",
+                  "traffic-inspection",
+                  "tui",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -1960,12 +3352,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a webshell open source project",
+                "homepage": "http://tennc.github.io",
                 "id": 10238429,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-12-24T15:37:05Z",
+                "open_issues": 0,
                 "owner": "tennc",
                 "repo": "webshell",
-                "stars": 10774
+                "stars": 10774,
+                "topics": [
+                  "asp",
+                  "aspx",
+                  "jsp",
+                  "jspx",
+                  "php",
+                  "pl",
+                  "python",
+                  "webshell",
+                  "webshell-sniper"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1976,12 +3383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weaponized web shell",
+                "homepage": null,
                 "id": 24259882,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-01T12:01:49Z",
+                "open_issues": 17,
                 "owner": "epinna",
                 "repo": "weevely3",
-                "stars": 3532
+                "stars": 3532,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -1992,12 +3404,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor",
+                "homepage": null,
                 "id": 20034746,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-06T13:49:14Z",
+                "open_issues": 27,
                 "owner": "nil0x42",
                 "repo": "phpsploit",
-                "stars": 2491
+                "stars": 2491,
+                "topics": [
+                  "advanced-persistent-threat",
+                  "backdoor",
+                  "blackhat",
+                  "c2",
+                  "command-and-control",
+                  "hacking",
+                  "hacking-framework",
+                  "hacktool",
+                  "persistence",
+                  "php-backdoor",
+                  "php-webshell",
+                  "php-webshell-backdoor",
+                  "post-exploitation",
+                  "privilege-escalation",
+                  "redteam",
+                  "stealth",
+                  "web-hacking",
+                  "webshell"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2008,12 +3444,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse Shell as a Service",
+                "homepage": "https://reverse-shell.sh",
                 "id": 103392317,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-18T02:26:52Z",
+                "open_issues": 1,
                 "owner": "lukechilds",
                 "repo": "reverse-shell",
-                "stars": 2055
+                "stars": 2055,
+                "topics": [
+                  "exploit",
+                  "microservice",
+                  "pentesting",
+                  "reverse-shell",
+                  "security",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2024,12 +3472,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nano is a family of PHP web shells which are code golfed for stealth.",
+                "homepage": null,
                 "id": 134872663,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-02-18T19:14:32Z",
+                "open_issues": 2,
                 "owner": "s0md3v",
                 "repo": "nano",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "mini-shell",
+                  "php-webshell",
+                  "tiny-shell",
+                  "webshell"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2040,12 +3498,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer: Manage your website via terminal",
+                "homepage": null,
                 "id": 98171974,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-27T01:10:44Z",
+                "open_issues": 0,
                 "owner": "WangYihang",
                 "repo": "Webshell-Sniper",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "pentest",
+                  "php",
+                  "python",
+                  "security-tools",
+                  "webshell",
+                  "webshell-sniper"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2056,12 +3526,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer: A multiple reverse shell session/client manager via terminal",
+                "homepage": "https://github.com/WangYihang/Platypus",
                 "id": 107918725,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-05T06:15:13Z",
+                "open_issues": 0,
                 "owner": "WangYihang",
                 "repo": "Reverse-Shell-Manager",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "attack-defense",
+                  "command-and-control",
+                  "ctf",
+                  "exploit",
+                  "pentesting",
+                  "pty",
+                  "python",
+                  "reverse-shell",
+                  "socket",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2079,12 +3565,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX-like reverse engineering framework and command-line toolset",
+                "homepage": "https://www.radare.org",
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-28T19:54:03Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:30:06Z",
+                "open_issues": 824,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24672
+                "stars": 24674,
+                "topics": [
+                  "binary-analysis",
+                  "c",
+                  "commandline",
+                  "disassembler",
+                  "forensics",
+                  "hacktoberfest",
+                  "malware-analysis",
+                  "radare2",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2095,12 +3597,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.",
+                "homepage": null,
                 "id": 31923165,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-31T16:57:42Z",
+                "open_issues": 15,
                 "owner": "plasma-disassembler",
                 "repo": "plasma",
-                "stars": 3071
+                "stars": 3071,
+                "topics": [
+                  "arm",
+                  "capstone",
+                  "disassembler",
+                  "mips",
+                  "reverse-engineering",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2111,12 +3626,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project has been moved to:",
+                "homepage": "https://github.com/radareorg/cutter",
                 "id": 86488003,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-07T07:55:50Z",
+                "open_issues": 38,
                 "owner": "hteso",
                 "repo": "iaito",
-                "stars": 1457
+                "stars": 1457,
+                "topics": [
+                  "gui",
+                  "qt5",
+                  "radare2",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2134,12 +3659,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DNS rebinding attack framework.",
+                "homepage": "https://github.com/nccgroup/singularity/wiki/%5BAnnouncement-Blog-Post%5D--Singularity-of-Origin:-A-DNS-Rebinding-Attack-Framework",
                 "id": 136234780,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T21:43:01Z",
+                "open_issues": 17,
                 "owner": "nccgroup",
                 "repo": "singularity",
-                "stars": 1315
+                "stars": 1315,
+                "topics": [
+                  "attack",
+                  "dns",
+                  "dns-rebinding",
+                  "iot",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2150,12 +3686,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A \"malicious\" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)",
+                "homepage": null,
                 "id": 127581627,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-17T11:29:43Z",
+                "open_issues": 9,
                 "owner": "brannondorsey",
                 "repo": "whonow",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "dns",
+                  "dns-rebinding",
+                  "dns-server",
+                  "hacking",
+                  "malicious-domains",
+                  "nodejs",
+                  "penetration-testing",
+                  "red-team"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2166,12 +3716,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A front-end JavaScript toolkit for creating DNS rebinding attacks.",
+                "homepage": "http://rebind.network",
                 "id": 137828116,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-02T14:42:04Z",
+                "open_issues": 3,
                 "owner": "brannondorsey",
                 "repo": "dns-rebind-toolkit",
-                "stars": 503
+                "stars": 503,
+                "topics": [
+                  "dns",
+                  "dns-rebinding",
+                  "hacking",
+                  "iot",
+                  "iot-security",
+                  "network-attacks",
+                  "red-team"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2182,12 +3745,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " DNS Rebinding Exploitation Framework ",
+                "homepage": null,
                 "id": 138720505,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-04-27T17:33:04Z",
+                "open_issues": 2,
                 "owner": "ReversecLabs",
                 "repo": "dref",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "browser-hacking",
+                  "dns-rebinding",
+                  "hacking",
+                  "iot",
+                  "iot-security",
+                  "iot-security-testing",
+                  "pentesting",
+                  "red-team",
+                  "web-hacking"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2205,12 +3783,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+                "homepage": "https://gchq.github.io/CyberChef",
                 "id": 74962515,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:29:59Z",
+                "open_issues": 553,
                 "owner": "gchq",
                 "repo": "CyberChef",
-                "stars": 35688
+                "stars": 35688,
+                "topics": [
+                  "compression",
+                  "data-analysis",
+                  "data-manipulation",
+                  "encoding",
+                  "encryption",
+                  "hashing",
+                  "parsing"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2221,12 +3812,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive CTF Exploration Tool",
+                "homepage": null,
                 "id": 190683905,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-17T21:02:25Z",
+                "open_issues": 15,
                 "owner": "taviso",
                 "repo": "ctftool",
-                "stars": 1667
+                "stars": 1667,
+                "topics": [
+                  "reverse-engineering",
+                  "security",
+                  "windows",
+                  "windows-internals"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2237,12 +3838,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal code to connect to a CEF debugger.",
+                "homepage": null,
                 "id": 212596758,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-10T23:32:48Z",
+                "open_issues": 0,
                 "owner": "taviso",
                 "repo": "cefdebug",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "cef",
+                  "electron",
+                  "security",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2253,12 +3864,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse NTLM challenge messages over HTTP and SMB",
+                "homepage": null,
                 "id": 219608604,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-10T17:11:33Z",
+                "open_issues": 1,
                 "owner": "nopfor",
                 "repo": "ntlm_challenger",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "information-gathering",
+                  "ntlm-authentication-protocol",
+                  "reconnaissance"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2282,12 +3902,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+                "homepage": "https://owasp-juice.shop",
                 "id": 24233689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:36:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:14:25Z",
+                "open_issues": 7,
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 13733
+                "stars": 13734,
+                "topics": [
+                  "24pullrequests",
+                  "application-security",
+                  "appsec",
+                  "ctf",
+                  "hacking",
+                  "hacktoberfest",
+                  "javascript",
+                  "owasp",
+                  "owasp-top-10",
+                  "owasp-top-ten",
+                  "pentesting",
+                  "security",
+                  "vulnapp",
+                  "vulnerable"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2298,12 +3938,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "vulnerable web application for training",
+                "homepage": null,
                 "id": 114084263,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-14T12:16:52Z",
+                "open_issues": 1,
                 "owner": "SecureSkyTechnology",
                 "repo": "BadLibrary",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             },
@@ -2314,12 +3959,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security training for the apps you actually ship. Open your browser and start hacking.",
+                "homepage": "https://koadt.github.io/oss-oopssec-store/roadmap/",
                 "id": 1118475908,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:15:33Z",
+                "open_issues": 8,
                 "owner": "kOaDT",
                 "repo": "oss-oopssec-store",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "appsec",
+                  "ctf",
+                  "cybersecurity",
+                  "mcp-security",
+                  "nextjs",
+                  "owasp-top10",
+                  "prisma",
+                  "prompt-injection",
+                  "react",
+                  "security-training",
+                  "supply-chain-security",
+                  "typescript",
+                  "vulnerable-web-app",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2337,12 +4002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+                "homepage": null,
                 "id": 141209050,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-28T13:43:43Z",
+                "open_issues": 24,
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3712
+                "stars": 3712,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:59.091Z"
             }
@@ -2364,12 +4034,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.",
+            "homepage": "https://rmusser.net/docs",
             "id": 23981144,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-10-20T02:12:59Z",
+            "open_issues": 4,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5987
+            "stars": 5987,
+            "topics": [
+              "blueteam",
+              "forensics",
+              "hacking",
+              "hacking-simulator",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "information-security",
+              "infosec",
+              "infosec-reference",
+              "linux",
+              "osx",
+              "penetration-testing",
+              "pentesting",
+              "privilege-escalation",
+              "privilege-escalation-exploits",
+              "red-team",
+              "references",
+              "reverse-engineering",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         },
@@ -2380,12 +4075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
+            "homepage": null,
             "id": 51669870,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-07T06:49:50Z",
+            "open_issues": 30,
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5874
+            "stars": 5876,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         },
@@ -2396,12 +4096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature",
+            "homepage": null,
             "id": 67130928,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-31T22:02:17Z",
+            "open_issues": 3,
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4256
+            "stars": 4256,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         },
@@ -2412,12 +4117,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decrypted content of eqgrp-auction-file.tar.xz",
+            "homepage": null,
             "id": 87638072,
             "language": "Perl",
+            "license": null,
             "last_commit": "2017-05-24T21:12:59Z",
+            "open_issues": 17,
             "owner": "x0rz",
             "repo": "EQGRP",
-            "stars": 4203
+            "stars": 4203,
+            "topics": [
+              "equationgroup",
+              "exploits",
+              "hacking",
+              "nsa",
+              "shadowbrokers",
+              "tao"
+            ]
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         },
@@ -2428,12 +4145,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some public notes",
+            "homepage": null,
             "id": 44457818,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-13T11:13:31Z",
+            "open_issues": 1,
             "owner": "ChALkeR",
             "repo": "notes",
-            "stars": 1275
+            "stars": 1275,
+            "topics": [
+              "bitbucket",
+              "github",
+              "gitlab",
+              "nodejs",
+              "npm",
+              "security",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         },
@@ -2444,12 +4174,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most comprehensive Hack The Box writeup collection - 500+ machines, 400+ challenges, interactive knowledge graph, skill trees, attack path diagrams, ProLabs, Sherlocks, OSCP/CPTS/CRTO prep. Browse: momenbasel.github.io/htb-writeups",
+            "homepage": "https://momenbasel.github.io/htb-writeups/",
             "id": 1206581065,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-18T13:03:00Z",
+            "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "active-directory",
+              "cheatsheet",
+              "ctf",
+              "ctf-writeups",
+              "cybersecurity",
+              "ethical-hacking",
+              "hack-the-box",
+              "hacking",
+              "hackthebox",
+              "htb",
+              "htb-writeups",
+              "infosec",
+              "oscp",
+              "penetration-testing",
+              "pentest",
+              "privilege-escalation",
+              "red-team",
+              "security",
+              "web-security",
+              "writeups"
+            ]
           },
           "first_seen": "2026-08-28T20:10:59.091Z"
         }
@@ -2458,15 +4214,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:59.091Z",
+    "last_updated": "2026-08-29T04:14:33.758Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🐶 A curated list of Web Security materials and resources.",
+      "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
       "id": 80358070,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-21T13:51:02Z",
+      "open_issues": 4,
       "owner": "qazbnm456",
       "repo": "awesome-web-security",
-      "stars": 13738
+      "stars": 13739,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "penetration-testing",
+        "security",
+        "web",
+        "websecurity"
+      ]
     },
     "original_repository_sha": "f2811dba2e290b63a8668a52cb7d31bfd05fb896",
     "enhanced_repository": "enhansome/enhansome-web-security",
